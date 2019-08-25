@@ -1,7 +1,7 @@
-import React, {Component, Fragment} from 'react';
-import {render} from 'react-dom';
-import {StaticMap} from 'react-map-gl';
-import DeckGL from '@deck.gl/react';
+import React, {Component, Fragment} from 'node_modules/react';
+import {render} from 'node_modules/react-dom';
+import {StaticMap} from 'node_modules/react-map-gl';
+import DeckGL from 'node_modules/@deck.gl/react';
 import {TextLayer,ScatterplotLayer} from '@deck.gl/layers';
 import {DataFilterExtension} from '@deck.gl/extensions';
 
