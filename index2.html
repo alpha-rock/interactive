@@ -1,0 +1,112 @@
+<html>
+  <head>
+    <script src="https://unpkg.com/deck.gl@~7.0.0/dist.min.js"></script>
+    <!-- only if base map is needed -->
+    <script src ="https://d3js.org/d3.v5.min.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js"></script>
+  </head>
+<style>
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+#control-panel {
+  font-family: Helvetica, Arial, sans-serif;
+  position: absolute;
+  background: #fff;
+  top: 0;
+  left: 0;
+  margin: 12px;
+  padding: 20px;
+  z-index: 1;
+}
+
+label {
+  display: inline-block;
+  width: 140px;
+}
+</style>
+
+
+  <body>
+    <div id="control-panel">
+        <div>
+          <label>Radius</label>
+          <input id="radius" type="range" min="1000" max="20000" step="1000" value="1000"></input>
+          <span id="radius-value"></span>
+        </div>
+        <div>
+          <label>Coverage</label>
+          <input id="coverage" type="range" min="0" max="1" step="0.1" value="1"></input>
+          <span id="coverage-value"></span>
+        </div>
+        <div>
+          <label>Upper Percentile</label>
+          <input id="upperPercentile" type="range" min="90" max="100" step="1" value="100"></input>
+          <span id="upperPercentile-value"></span>
+        </div>
+      </div>
+  </body>
+  <script type="text/javascript">
+ 
+
+const deckgl = new deck.DeckGL({
+    mapboxApiAccessToken: 'pk.eyJ1IjoidWJlcmRhdGEiLCJhIjoiY2pudzRtaWloMDAzcTN2bzN1aXdxZHB5bSJ9.2bkj3IiRC8wj3jLThvDGdA',
+  mapStyle: 'mapbox://styles/mapbox/dark-v9',
+  //container: 'container',
+  latitude: 18.7,
+  longitude: 78.9,
+  zoom: 4.5,
+  pitch: 45,
+  bearing: -30,
+  maxZoom: 15,
+  minZoom: 3,
+});
+
+const data = d3.csv('https://raw.githubusercontent.com/alpha-rock/interactive/master/kepler-gl_Tap3.csv');
+
+const OPTIONS = ['radius', 'coverage', 'upperPercentile'];
+const COLOR_RANGE = [
+  [1, 152, 189],
+  [73, 227, 206],
+  [216, 254, 181],
+  [254, 237, 177],
+  [254, 173, 84],
+  [209, 55, 78]
+];
+OPTIONS.forEach(key => {
+  document.getElementById(key).oninput = renderLayer;
+});
+renderLayer();
+
+function renderLayer () {
+  const options = {};
+  OPTIONS.forEach(key => {
+    const value = +document.getElementById(key).value;
+    document.getElementById(key + '-value').innerHTML = value;
+    options[key] = value;
+  });
+
+  const hexagonLayer = new deck.HexagonLayer({
+    id: 'heatmap',
+    colorRange: COLOR_RANGE,
+    data,
+    elevationRange: [0, 1000],
+    elevationScale: 250,
+    extruded: true,
+    getPosition: d => [Number(d.Long), Number(d.Lat)],
+    opacity: 1,
+    ...options
+  });
+
+  deckgl.setProps({
+    layers: [hexagonLayer]
+  });
+}
+
+  </script>
+</html>
+
