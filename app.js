@@ -1,7 +1,8 @@
-import React, {Component, Fragment} from 'node_modules/react';
-import {render} from 'node_modules/react-dom';
-import {StaticMap} from 'node_modules/react-map-gl';
-import DeckGL from 'node_modules/@deck.gl/react';
+import Component from 'react';
+import {React} from 'react';
+import {render} from 'react-dom';
+import {StaticMap} from 'react-map-gl';
+import DeckGL from '@deck.gl/react';
 import {TextLayer,ScatterplotLayer} from '@deck.gl/layers';
 import {DataFilterExtension} from '@deck.gl/extensions';
 
@@ -10,7 +11,7 @@ import {DataFilterExtension} from '@deck.gl/extensions';
 import RangeInput from './range-input';
 
 // Set your mapbox token here
-const MAPBOX_TOKEN ="pk.eyJ1IjoiYWxwaGEtc2lzb2RpeWEiLCJhIjoiY2p6MmppOXM2MDcwaDNtbDlmeDU2ZDR1biJ9.AMeqwiRdGPHuNjsIC1cJ8w";
+const MAPBOX_TOKEN ="1" //"pk.eyJ1IjoiYWxwaGEtc2lzb2RpeWEiLCJhIjoiY2p6MmppOXM2MDcwaDNtbDlmeDU2ZDR1biJ9.AMeqwiRdGPHuNjsIC1cJ8w";
 process.env.MapboxAccessToken; // eslint-disable-line
 const MAPBOX_STYLE = 'mapbox://styles/alpha-sisodiya/cjzh2rw962odm1cqx34m2s0ix';
 // Source data GeoJSON
