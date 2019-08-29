@@ -10,7 +10,7 @@
     "Name": "Andaman Diesel Plant",
     "INST_CAP": 40.05,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 17.33
+    "ACTUAL_GENERATION": 17.33
   },
   {
     "CATEGORY": "THERMAL",
@@ -23,7 +23,7 @@
     "Name": "Sri Damodaram Sanjeevaiah Thermal Power Plant unit-I",
     "INST_CAP": 1600,
     "PROGRAM_GENERATION": 708,
-    "ACTUAL GENERATION": 746.1
+    "ACTUAL_GENERATION": 746.1
   },
   {
     "CATEGORY": "THERMAL",
@@ -36,7 +36,7 @@
     "Name": "Dr. Narla Tatarao Thermal Power Station",
     "INST_CAP": 1760,
     "PROGRAM_GENERATION": 1129,
-    "ACTUAL GENERATION": 1035.37
+    "ACTUAL_GENERATION": 1035.37
   },
   {
     "CATEGORY": "THERMAL",
@@ -49,7 +49,7 @@
     "Name": "GVK Gautami power station",
     "INST_CAP": 464,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -62,7 +62,7 @@
     "Name": "GMR Energy Plant",
     "INST_CAP": 220,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -75,7 +75,7 @@
     "Name": "Godavari (Kakinada) Gas CCPP",
     "INST_CAP": 208,
     "PROGRAM_GENERATION": 52,
-    "ACTUAL GENERATION": 97.1
+    "ACTUAL_GENERATION": 97.1
   },
   {
     "CATEGORY": "THERMAL",
@@ -88,7 +88,7 @@
     "Name": "GMR POWER PLANT VEMAGIRI UNIT",
     "INST_CAP": 768,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -101,7 +101,7 @@
     "Name": "Jegurupadu Closed Combined Power Plant",
     "INST_CAP": 235.4,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 103.57
+    "ACTUAL_GENERATION": 103.57
   },
   {
     "CATEGORY": "THERMAL",
@@ -114,7 +114,7 @@
     "Name": "GVK Jegurupadu Power Plant",
     "INST_CAP": 220,
     "PROGRAM_GENERATION": 21,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -127,7 +127,7 @@
     "Name": "Konsaseema Power Plant",
     "INST_CAP": 445,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -140,7 +140,7 @@
     "Name": "Kondapalli Natural Gas Power Plant",
     "INST_CAP": 350,
     "PROGRAM_GENERATION": 51,
-    "ACTUAL GENERATION": 101.12
+    "ACTUAL_GENERATION": 101.12
   },
   {
     "CATEGORY": "THERMAL",
@@ -153,7 +153,7 @@
     "Name": "Lanco Kondapalli Power Station",
     "INST_CAP": 366,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -166,7 +166,7 @@
     "Name": "KONDAPALLI ST",
     "INST_CAP": 742,
     "PROGRAM_GENERATION": 42,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -179,7 +179,7 @@
     "Name": "LVS Power Ltd",
     "INST_CAP": 36.8,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -192,7 +192,7 @@
     "Name": "NAGARJUNA SAGAR HYDRO POWER PLANT",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -205,7 +205,7 @@
     "Name": "Nagarjuna Sagar Main Power House",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -218,7 +218,7 @@
     "Name": "Nagarjun Hydro Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -231,7 +231,7 @@
     "Name": "Sembcorp Energy India Limited",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 764,
-    "ACTUAL GENERATION": 608.17
+    "ACTUAL_GENERATION": 608.17
   },
   {
     "CATEGORY": "THERMAL",
@@ -244,7 +244,7 @@
     "Name": "Peddapuram Gas Power Plant",
     "INST_CAP": 220,
     "PROGRAM_GENERATION": 4,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -257,7 +257,7 @@
     "Name": "Rayalaseema Thermal Power Plant",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 639,
-    "ACTUAL GENERATION": 496.63
+    "ACTUAL_GENERATION": 496.63
   },
   {
     "CATEGORY": "THERMAL",
@@ -270,7 +270,7 @@
     "Name": "Sembcorp Gayathri Power Limited",
     "INST_CAP": 660,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 311.88
+    "ACTUAL_GENERATION": 311.88
   },
   {
     "CATEGORY": "THERMAL",
@@ -283,7 +283,7 @@
     "Name": "NTPC-Simhadri",
     "INST_CAP": 2000,
     "PROGRAM_GENERATION": 1299,
-    "ACTUAL GENERATION": 1075.41
+    "ACTUAL_GENERATION": 1075.41
   },
   {
     "CATEGORY": "THERMAL",
@@ -296,7 +296,7 @@
     "Name": "Simhapuri Energy Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 380,
-    "ACTUAL GENERATION": 12.77
+    "ACTUAL_GENERATION": 12.77
   },
   {
     "CATEGORY": "HYDRO",
@@ -309,7 +309,7 @@
     "Name": "Srisailam Hydro Power Plant",
     "INST_CAP": 770,
     "PROGRAM_GENERATION": 48,
-    "ACTUAL GENERATION": 68.75
+    "ACTUAL_GENERATION": 68.75
   },
   {
     "CATEGORY": "THERMAL",
@@ -322,7 +322,7 @@
     "Name": "Meenakshi Energy Power Plant",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 150,
-    "ACTUAL GENERATION": 75.29
+    "ACTUAL_GENERATION": 75.29
   },
   {
     "CATEGORY": "HYDRO",
@@ -335,7 +335,7 @@
     "Name": "Sileru Hydro Plant",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 44,
-    "ACTUAL GENERATION": 32.89
+    "ACTUAL_GENERATION": 32.89
   },
   {
     "CATEGORY": "THERMAL",
@@ -348,7 +348,7 @@
     "Name": "GMR POWER PLANT VEMAGIRI UNIT",
     "INST_CAP": 370,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -361,7 +361,7 @@
     "Name": "Andhra Pradesh Gas Power Corporation Limited",
     "INST_CAP": 272,
     "PROGRAM_GENERATION": 59,
-    "ACTUAL GENERATION": 86.96
+    "ACTUAL_GENERATION": 86.96
   },
   {
     "CATEGORY": "THERMAL",
@@ -374,7 +374,7 @@
     "Name": "HINDUJA NATIONAL POWER CORPORATION LIMITED",
     "INST_CAP": 1040,
     "PROGRAM_GENERATION": 247,
-    "ACTUAL GENERATION": 277.64
+    "ACTUAL_GENERATION": 277.64
   },
   {
     "CATEGORY": "HYDRO",
@@ -387,7 +387,7 @@
     "Name": "Kameng Hydro Electric Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -400,7 +400,7 @@
     "Name": "Department of Hydro Power",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 26,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -413,7 +413,7 @@
     "Name": "Ranganadi Hydro Electric Power Project",
     "INST_CAP": 405,
     "PROGRAM_GENERATION": 36,
-    "ACTUAL GENERATION": 31.69
+    "ACTUAL_GENERATION": 31.69
   },
   {
     "CATEGORY": "THERMAL",
@@ -426,7 +426,7 @@
     "Name": "Bongaigaon Thermal Power Project",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 93,
-    "ACTUAL GENERATION": 127.47
+    "ACTUAL_GENERATION": 127.47
   },
   {
     "CATEGORY": "THERMAL",
@@ -439,7 +439,7 @@
     "Name": "Assam Power Generation Corporation Limited",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -452,7 +452,7 @@
     "Name": "Karbi Langpi Hydro Electric Project",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 11,
-    "ACTUAL GENERATION": 14.83
+    "ACTUAL_GENERATION": 14.83
   },
   {
     "CATEGORY": "THERMAL",
@@ -465,7 +465,7 @@
     "Name": "Kathalguri Gas Based Power Plant",
     "INST_CAP": 291,
     "PROGRAM_GENERATION": 149,
-    "ACTUAL GENERATION": 132.21
+    "ACTUAL_GENERATION": 132.21
   },
   {
     "CATEGORY": "HYDRO",
@@ -478,7 +478,7 @@
     "Name": "Kopili Hydro Power Plant",
     "INST_CAP": 225,
     "PROGRAM_GENERATION": 50,
-    "ACTUAL GENERATION": 58.43
+    "ACTUAL_GENERATION": 58.43
   },
   {
     "CATEGORY": "THERMAL",
@@ -491,7 +491,7 @@
     "Name": "Lakwa Thermal Power Station",
     "INST_CAP": 157.2,
     "PROGRAM_GENERATION": 79,
-    "ACTUAL GENERATION": 78.95
+    "ACTUAL_GENERATION": 78.95
   },
   {
     "CATEGORY": "THERMAL",
@@ -504,7 +504,7 @@
     "Name": "Namrup Thermal Power Station",
     "INST_CAP": 181.25,
     "PROGRAM_GENERATION": 58,
-    "ACTUAL GENERATION": 34.09
+    "ACTUAL_GENERATION": 34.09
   },
   {
     "CATEGORY": "THERMAL",
@@ -517,7 +517,7 @@
     "Name": "Barauni Thermal Power Station",
     "INST_CAP": 210,
     "PROGRAM_GENERATION": 77,
-    "ACTUAL GENERATION": 45.6
+    "ACTUAL_GENERATION": 45.6
   },
   {
     "CATEGORY": "THERMAL",
@@ -530,7 +530,7 @@
     "Name": "NTPC - Barh Super Thermal Power Project",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -543,7 +543,7 @@
     "Name": "NTPC - Barh 2 Super Thermal Power Project",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 529,
-    "ACTUAL GENERATION": 777.08
+    "ACTUAL_GENERATION": 777.08
   },
   {
     "CATEGORY": "THERMAL",
@@ -556,7 +556,7 @@
     "Name": "NTPC Kahalgaon Power Station",
     "INST_CAP": 2340,
     "PROGRAM_GENERATION": 1387,
-    "ACTUAL GENERATION": 1137.42
+    "ACTUAL_GENERATION": 1137.42
   },
   {
     "CATEGORY": "THERMAL",
@@ -569,7 +569,7 @@
     "Name": "Kanti Thermal Power Plant",
     "INST_CAP": 415,
     "PROGRAM_GENERATION": 113,
-    "ACTUAL GENERATION": 32.92
+    "ACTUAL_GENERATION": 32.92
   },
   {
     "CATEGORY": "THERMAL",
@@ -582,7 +582,7 @@
     "Name": "BRBCL (4X250MW) Thermal Power Plant",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 51,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -595,7 +595,7 @@
     "Name": "NTPC Nabinagar",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -608,7 +608,7 @@
     "Name": "KSK Mahanadi Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 594,
-    "ACTUAL GENERATION": 603.91
+    "ACTUAL_GENERATION": 603.91
   },
   {
     "CATEGORY": "THERMAL",
@@ -621,7 +621,7 @@
     "Name": "Avantha Bhandar Thermal Power Plant",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 51,
-    "ACTUAL GENERATION": 313.75
+    "ACTUAL_GENERATION": 313.75
   },
   {
     "CATEGORY": "THERMAL",
@@ -634,7 +634,7 @@
     "Name": "Balco Captive Power Plant",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 170,
-    "ACTUAL GENERATION": 308.06
+    "ACTUAL_GENERATION": 308.06
   },
   {
     "CATEGORY": "THERMAL",
@@ -647,7 +647,7 @@
     "Name": "Maruti Clean Coal Power Ltd",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 59,
-    "ACTUAL GENERATION": 185.99
+    "ACTUAL_GENERATION": 185.99
   },
   {
     "CATEGORY": "THERMAL",
@@ -660,7 +660,7 @@
     "Name": "DB Power Limited",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 297,
-    "ACTUAL GENERATION": 706.94
+    "ACTUAL_GENERATION": 706.94
   },
   {
     "CATEGORY": "THERMAL",
@@ -673,7 +673,7 @@
     "Name": "NSPCL PP2",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 192,
-    "ACTUAL GENERATION": 292.28
+    "ACTUAL_GENERATION": 292.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -686,7 +686,7 @@
     "Name": "SKS Power Generation Chhattisgarh Limited",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 55,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -699,7 +699,7 @@
     "Name": "Thermal Power Plant Acbil",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 17,
-    "ACTUAL GENERATION": 22.22
+    "ACTUAL_GENERATION": 22.22
   },
   {
     "CATEGORY": "THERMAL",
@@ -712,7 +712,7 @@
     "Name": "Dr.Shyama Prasad Mukherjee Thermal Power Station",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 297,
-    "ACTUAL GENERATION": 344.48
+    "ACTUAL_GENERATION": 344.48
   },
   {
     "CATEGORY": "HYDRO",
@@ -725,7 +725,7 @@
     "Name": "Hasdeo Bango Dam",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 2.28
+    "ACTUAL_GENERATION": 2.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -738,7 +738,7 @@
     "Name": "ARASMETA CAPTIVE POWER PLANT",
     "INST_CAP": 270,
     "PROGRAM_GENERATION": 170,
-    "ACTUAL GENERATION": 190.85
+    "ACTUAL_GENERATION": 190.85
   },
   {
     "CATEGORY": "THERMAL",
@@ -751,7 +751,7 @@
     "Name": "Vandana Thermal Power Plant",
     "INST_CAP": 35,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -764,7 +764,7 @@
     "Name": "NTPC Second Korba Super Thermal Power Station",
     "INST_CAP": 2600,
     "PROGRAM_GENERATION": 1719,
-    "ACTUAL GENERATION": 1801.4
+    "ACTUAL_GENERATION": 1801.4
   },
   {
     "CATEGORY": "THERMAL",
@@ -777,7 +777,7 @@
     "Name": "Hasdeo Thermal Power Station, Darri,Korba",
     "INST_CAP": 200,
     "PROGRAM_GENERATION": 72,
-    "ACTUAL GENERATION": 58.69
+    "ACTUAL_GENERATION": 58.69
   },
   {
     "CATEGORY": "THERMAL",
@@ -790,7 +790,7 @@
     "Name": "NTPC Korba Super Thermal Power Station",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 125,
-    "ACTUAL GENERATION": 79.08
+    "ACTUAL_GENERATION": 79.08
   },
   {
     "CATEGORY": "THERMAL",
@@ -803,7 +803,7 @@
     "Name": "NTPC West Korba Super Thermal Power Station",
     "INST_CAP": 1340,
     "PROGRAM_GENERATION": 816,
-    "ACTUAL GENERATION": 893.87
+    "ACTUAL_GENERATION": 893.87
   },
   {
     "CATEGORY": "THERMAL",
@@ -816,7 +816,7 @@
     "Name": "NTPC Lara",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -829,7 +829,7 @@
     "Name": "ABVTPS, CSPGCL MARWA TENDUBHATA",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 327.93
+    "ACTUAL_GENERATION": 327.93
   },
   {
     "CATEGORY": "THERMAL",
@@ -842,7 +842,7 @@
     "Name": "TRN Energy Power Plant",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 160.05
+    "ACTUAL_GENERATION": 160.05
   },
   {
     "CATEGORY": "THERMAL",
@@ -855,7 +855,7 @@
     "Name": "Jindal Power Limited",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 421,
-    "ACTUAL GENERATION": 340.23
+    "ACTUAL_GENERATION": 340.23
   },
   {
     "CATEGORY": "THERMAL",
@@ -868,7 +868,7 @@
     "Name": "Lanco Amarkantak Power Limited",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -881,7 +881,7 @@
     "Name": "Lanco Extension Amarkantak Power Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 298,
-    "ACTUAL GENERATION": 363.23
+    "ACTUAL_GENERATION": 363.23
   },
   {
     "CATEGORY": "THERMAL",
@@ -894,7 +894,7 @@
     "Name": "GMR Chhattisgarh Power Project",
     "INST_CAP": 1370,
     "PROGRAM_GENERATION": 212,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -907,7 +907,7 @@
     "Name": "Spectrum Coal",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 17,
-    "ACTUAL GENERATION": 68.55
+    "ACTUAL_GENERATION": 68.55
   },
   {
     "CATEGORY": "THERMAL",
@@ -920,7 +920,7 @@
     "Name": "Vandana Thermal Power Plant",
     "INST_CAP": 135,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -933,7 +933,7 @@
     "Name": "Athena Chhattisgarh Power Ltd",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -946,7 +946,7 @@
     "Name": "NTPC Sipat Thermal Power Plant",
     "INST_CAP": 2980,
     "PROGRAM_GENERATION": 1787,
-    "ACTUAL GENERATION": 2073.08
+    "ACTUAL_GENERATION": 2073.08
   },
   {
     "CATEGORY": "THERMAL",
@@ -959,7 +959,7 @@
     "Name": "S V Power Pvt Ltd",
     "INST_CAP": 63,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 31.99
+    "ACTUAL_GENERATION": 31.99
   },
   {
     "CATEGORY": "THERMAL",
@@ -972,7 +972,7 @@
     "Name": "Swastik Korba Thermal Power Plant",
     "INST_CAP": 25,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -985,7 +985,7 @@
     "Name": "Jindal Power Limited",
     "INST_CAP": 2400,
     "PROGRAM_GENERATION": 474,
-    "ACTUAL GENERATION": 411.49
+    "ACTUAL_GENERATION": 411.49
   },
   {
     "CATEGORY": "THERMAL",
@@ -998,7 +998,7 @@
     "Name": "R.K.M Powergen Pvt Ltd",
     "INST_CAP": 720,
     "PROGRAM_GENERATION": 204,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1011,7 +1011,7 @@
     "Name": "Badarpur Thermal Power Station",
     "INST_CAP": 705,
     "PROGRAM_GENERATION": 90,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1024,7 +1024,7 @@
     "Name": "Indraprashtha Power Generation Company Limited",
     "INST_CAP": 270,
     "PROGRAM_GENERATION": 64,
-    "ACTUAL GENERATION": 50.2
+    "ACTUAL_GENERATION": 50.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -1037,7 +1037,7 @@
     "Name": "Pragati Thermal Power Plant",
     "INST_CAP": 1500,
     "PROGRAM_GENERATION": 177,
-    "ACTUAL GENERATION": 201.28
+    "ACTUAL_GENERATION": 201.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -1050,7 +1050,7 @@
     "Name": "Pragati Thermal Power Plant",
     "INST_CAP": 330.4,
     "PROGRAM_GENERATION": 119,
-    "ACTUAL GENERATION": 112.6
+    "ACTUAL_GENERATION": 112.6
   },
   {
     "CATEGORY": "THERMAL",
@@ -1063,7 +1063,7 @@
     "Name": "Rajghat Thermal Power Plant (Defunct)",
     "INST_CAP": 135,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1076,7 +1076,7 @@
     "Name": "Rithala Power Plant",
     "INST_CAP": 108,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1089,7 +1089,7 @@
     "Name": "Reliance Energy Limited",
     "INST_CAP": 48,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1102,7 +1102,7 @@
     "Name": "Akrimota Thermal Power Station",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 139,
-    "ACTUAL GENERATION": 116.78
+    "ACTUAL_GENERATION": 116.78
   },
   {
     "CATEGORY": "THERMAL",
@@ -1115,7 +1115,7 @@
     "Name": "GIPCL",
     "INST_CAP": 160,
     "PROGRAM_GENERATION": 17,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1128,7 +1128,7 @@
     "Name": "Bhavnagar Energy Company Limited Power Station",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 89,
-    "ACTUAL GENERATION": 16.15
+    "ACTUAL_GENERATION": 16.15
   },
   {
     "CATEGORY": "THERMAL",
@@ -1141,7 +1141,7 @@
     "Name": "Torrent Power Limited",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1154,7 +1154,7 @@
     "Name": "Dhuvaran III CCPP",
     "INST_CAP": 594.72,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 34.11
+    "ACTUAL_GENERATION": 34.11
   },
   {
     "CATEGORY": "THERMAL",
@@ -1167,7 +1167,7 @@
     "Name": "Essar Power Gujrat Limited (EPGL)",
     "INST_CAP": 515,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1180,7 +1180,7 @@
     "Name": "Coal Based Power Plant",
     "INST_CAP": 657.39,
     "PROGRAM_GENERATION": 127,
-    "ACTUAL GENERATION": 234.98
+    "ACTUAL_GENERATION": 234.98
   },
   {
     "CATEGORY": "THERMAL",
@@ -1193,7 +1193,7 @@
     "Name": "Vijapur Road, Thermal Power Plant Area",
     "INST_CAP": 870,
     "PROGRAM_GENERATION": 273,
-    "ACTUAL GENERATION": 204.56
+    "ACTUAL_GENERATION": 204.56
   },
   {
     "CATEGORY": "THERMAL",
@@ -1206,7 +1206,7 @@
     "Name": "GIPCL",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 14,
-    "ACTUAL GENERATION": 14.93
+    "ACTUAL_GENERATION": 14.93
   },
   {
     "CATEGORY": "THERMAL",
@@ -1219,7 +1219,7 @@
     "Name": "Essar Power Hazira Ltd. 270 MW",
     "INST_CAP": 156.1,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1232,7 +1232,7 @@
     "Name": "NTPC Kawas Power Plant",
     "INST_CAP": 351,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1245,7 +1245,7 @@
     "Name": "Kadana Dam",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 23.63
+    "ACTUAL_GENERATION": 23.63
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -1258,7 +1258,7 @@
     "Name": "Kakrapar Atomic Power Station",
     "INST_CAP": 440,
     "PROGRAM_GENERATION": 280,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1271,7 +1271,7 @@
     "Name": "NTPC Kawas Power Plant",
     "INST_CAP": 656.2,
     "PROGRAM_GENERATION": 133,
-    "ACTUAL GENERATION": 180.87
+    "ACTUAL_GENERATION": 180.87
   },
   {
     "CATEGORY": "THERMAL",
@@ -1284,7 +1284,7 @@
     "Name": "Kutch Lignite Thermal Power Station",
     "INST_CAP": 290,
     "PROGRAM_GENERATION": 156,
-    "ACTUAL GENERATION": 85.6
+    "ACTUAL_GENERATION": 85.6
   },
   {
     "CATEGORY": "THERMAL",
@@ -1297,7 +1297,7 @@
     "Name": "Adani Power Mundra Limited",
     "INST_CAP": 4620,
     "PROGRAM_GENERATION": 2612,
-    "ACTUAL GENERATION": 2764.29
+    "ACTUAL_GENERATION": 2764.29
   },
   {
     "CATEGORY": "THERMAL",
@@ -1310,7 +1310,7 @@
     "Name": "Ultra Mega Power Project CGPL",
     "INST_CAP": 4000,
     "PROGRAM_GENERATION": 2057,
-    "ACTUAL GENERATION": 2620.61
+    "ACTUAL_GENERATION": 2620.61
   },
   {
     "CATEGORY": "THERMAL",
@@ -1323,7 +1323,7 @@
     "Name": "Paguthan Combined Cycle Power Plant",
     "INST_CAP": 655,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 4.36
+    "ACTUAL_GENERATION": 4.36
   },
   {
     "CATEGORY": "THERMAL",
@@ -1336,7 +1336,7 @@
     "Name": "GSPC Pipavav Power Co Ltd GPPC",
     "INST_CAP": 702,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1349,7 +1349,7 @@
     "Name": "Sardar Sarovar Dam",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 85,
-    "ACTUAL GENERATION": 90.97
+    "ACTUAL_GENERATION": 90.97
   },
   {
     "CATEGORY": "HYDRO",
@@ -1362,7 +1362,7 @@
     "Name": "Sardar Sarovar Dam Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 92,
-    "ACTUAL GENERATION": 0.74
+    "ACTUAL_GENERATION": 0.74
   },
   {
     "CATEGORY": "THERMAL",
@@ -1375,7 +1375,7 @@
     "Name": "Torrent Power C Station",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1388,7 +1388,7 @@
     "Name": "Torrent Power D-F Station",
     "INST_CAP": 362,
     "PROGRAM_GENERATION": 218,
-    "ACTUAL GENERATION": 243.67
+    "ACTUAL_GENERATION": 243.67
   },
   {
     "CATEGORY": "THERMAL",
@@ -1401,7 +1401,7 @@
     "Name": "Essar Power Gujrat Limited (EPGL)",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 556,
-    "ACTUAL GENERATION": 483.11
+    "ACTUAL_GENERATION": 483.11
   },
   {
     "CATEGORY": "THERMAL",
@@ -1414,7 +1414,7 @@
     "Name": "Sikka Thermal Power Station",
     "INST_CAP": 740,
     "PROGRAM_GENERATION": 175,
-    "ACTUAL GENERATION": 220.75
+    "ACTUAL_GENERATION": 220.75
   },
   {
     "CATEGORY": "THERMAL",
@@ -1427,7 +1427,7 @@
     "Name": "Sugen Power Plant",
     "INST_CAP": 1147.5,
     "PROGRAM_GENERATION": 233,
-    "ACTUAL GENERATION": 187.97
+    "ACTUAL_GENERATION": 187.97
   },
   {
     "CATEGORY": "THERMAL",
@@ -1440,7 +1440,7 @@
     "Name": "Surat Lignite Power Plant",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 313,
-    "ACTUAL GENERATION": 257.56
+    "ACTUAL_GENERATION": 257.56
   },
   {
     "CATEGORY": "HYDRO",
@@ -1453,7 +1453,7 @@
     "Name": "Ukai Dam Power Plant",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 4.51
+    "ACTUAL_GENERATION": 4.51
   },
   {
     "CATEGORY": "THERMAL",
@@ -1466,7 +1466,7 @@
     "Name": "Ukai Thermal Power Station",
     "INST_CAP": 1350,
     "PROGRAM_GENERATION": 528,
-    "ACTUAL GENERATION": 310.5
+    "ACTUAL_GENERATION": 310.5
   },
   {
     "CATEGORY": "THERMAL",
@@ -1479,7 +1479,7 @@
     "Name": "UNOSugen Power Plant",
     "INST_CAP": 382.5,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1492,7 +1492,7 @@
     "Name": "Utran Gas Based Power Station",
     "INST_CAP": 518,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1505,7 +1505,7 @@
     "Name": "Torrent Power",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -1518,7 +1518,7 @@
     "Name": "Wanakbori Thermal Power Station",
     "INST_CAP": 1470,
     "PROGRAM_GENERATION": 478,
-    "ACTUAL GENERATION": 228.69
+    "ACTUAL_GENERATION": 228.69
   },
   {
     "CATEGORY": "THERMAL",
@@ -1531,7 +1531,7 @@
     "Name": "NTPC Faridabad",
     "INST_CAP": 431.59,
     "PROGRAM_GENERATION": 97,
-    "ACTUAL GENERATION": 15.59
+    "ACTUAL_GENERATION": 15.59
   },
   {
     "CATEGORY": "THERMAL",
@@ -1544,7 +1544,7 @@
     "Name": "Indira Gandhi Super Thermal Power Project",
     "INST_CAP": 1500,
     "PROGRAM_GENERATION": 570,
-    "ACTUAL GENERATION": 110.76
+    "ACTUAL_GENERATION": 110.76
   },
   {
     "CATEGORY": "THERMAL",
@@ -1557,7 +1557,7 @@
     "Name": "Mahatma Gandhi Super Thermal Power Plant",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 501,
-    "ACTUAL GENERATION": 513.1
+    "ACTUAL_GENERATION": 513.1
   },
   {
     "CATEGORY": "THERMAL",
@@ -1570,7 +1570,7 @@
     "Name": "Panipat Thermal Power Station",
     "INST_CAP": 920,
     "PROGRAM_GENERATION": 124,
-    "ACTUAL GENERATION": 109.48
+    "ACTUAL_GENERATION": 109.48
   },
   {
     "CATEGORY": "THERMAL",
@@ -1583,7 +1583,7 @@
     "Name": "Rajiv Gandhi Thermal Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 445,
-    "ACTUAL GENERATION": 577.98
+    "ACTUAL_GENERATION": 577.98
   },
   {
     "CATEGORY": "THERMAL",
@@ -1596,7 +1596,7 @@
     "Name": "HPGCL Deen Bandhu Chotu Ram Thermal Power Plant",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 219,
-    "ACTUAL GENERATION": 208.4
+    "ACTUAL_GENERATION": 208.4
   },
   {
     "CATEGORY": "HYDRO",
@@ -1609,7 +1609,7 @@
     "Name": "Allain Duhangan Hydropower Plant",
     "INST_CAP": 192,
     "PROGRAM_GENERATION": 11,
-    "ACTUAL GENERATION": 11.76
+    "ACTUAL_GENERATION": 11.76
   },
   {
     "CATEGORY": "HYDRO",
@@ -1622,7 +1622,7 @@
     "Name": "Bairasiul Power Station",
     "INST_CAP": 180,
     "PROGRAM_GENERATION": 14,
-    "ACTUAL GENERATION": 23.21
+    "ACTUAL_GENERATION": 23.21
   },
   {
     "CATEGORY": "HYDRO",
@@ -1635,7 +1635,7 @@
     "Name": "Baspa (Stage 2) Dam",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 32,
-    "ACTUAL GENERATION": 30.48
+    "ACTUAL_GENERATION": 30.48
   },
   {
     "CATEGORY": "HYDRO",
@@ -1648,7 +1648,7 @@
     "Name": "Bassi Power House",
     "INST_CAP": 66,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 7.55
+    "ACTUAL_GENERATION": 7.55
   },
   {
     "CATEGORY": "HYDRO",
@@ -1661,7 +1661,7 @@
     "Name": "Taggi Budhil HPS",
     "INST_CAP": 70,
     "PROGRAM_GENERATION": 3,
-    "ACTUAL GENERATION": 5.08
+    "ACTUAL_GENERATION": 5.08
   },
   {
     "CATEGORY": "HYDRO",
@@ -1674,7 +1674,7 @@
     "Name": "Chamera Dam Hydro Power Plant",
     "INST_CAP": 540,
     "PROGRAM_GENERATION": 47,
-    "ACTUAL GENERATION": 64.3
+    "ACTUAL_GENERATION": 64.3
   },
   {
     "CATEGORY": "HYDRO",
@@ -1687,7 +1687,7 @@
     "Name": "Chamera Hydro Power Plant",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 35,
-    "ACTUAL GENERATION": 37.77
+    "ACTUAL_GENERATION": 37.77
   },
   {
     "CATEGORY": "HYDRO",
@@ -1700,7 +1700,7 @@
     "Name": "CHAMERA-III HPS",
     "INST_CAP": 231,
     "PROGRAM_GENERATION": 19,
-    "ACTUAL GENERATION": 18.31
+    "ACTUAL_GENERATION": 18.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -1713,7 +1713,7 @@
     "Name": "Jataun Dam",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 10
+    "ACTUAL_GENERATION": 10
   },
   {
     "CATEGORY": "HYDRO",
@@ -1726,7 +1726,7 @@
     "Name": "Karcham Wangtoo Dam",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 110,
-    "ACTUAL GENERATION": 101.51
+    "ACTUAL_GENERATION": 101.51
   },
   {
     "CATEGORY": "HYDRO",
@@ -1739,7 +1739,7 @@
     "Name": "HPPCL Kashang Project Power House",
     "INST_CAP": 130,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 3.31
+    "ACTUAL_GENERATION": 3.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -1752,7 +1752,7 @@
     "Name": "Koldam Dam",
     "INST_CAP": 800,
     "PROGRAM_GENERATION": 62,
-    "ACTUAL GENERATION": 81.73
+    "ACTUAL_GENERATION": 81.73
   },
   {
     "CATEGORY": "HYDRO",
@@ -1765,7 +1765,7 @@
     "Name": "Larji Dam",
     "INST_CAP": 126,
     "PROGRAM_GENERATION": 15,
-    "ACTUAL GENERATION": 15.67
+    "ACTUAL_GENERATION": 15.67
   },
   {
     "CATEGORY": "HYDRO",
@@ -1778,7 +1778,7 @@
     "Name": "Malana Hydro Electric Plant",
     "INST_CAP": 86,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 5.88
+    "ACTUAL_GENERATION": 5.88
   },
   {
     "CATEGORY": "HYDRO",
@@ -1791,7 +1791,7 @@
     "Name": "Malana II Reservoir",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 5.2
+    "ACTUAL_GENERATION": 5.2
   },
   {
     "CATEGORY": "HYDRO",
@@ -1804,7 +1804,7 @@
     "Name": "NJHPS Intake Structure",
     "INST_CAP": 1500,
     "PROGRAM_GENERATION": 188,
-    "ACTUAL GENERATION": 191.83
+    "ACTUAL_GENERATION": 191.83
   },
   {
     "CATEGORY": "HYDRO",
@@ -1817,7 +1817,7 @@
     "Name": "Parbati Hydro Electric Project",
     "INST_CAP": 520,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 12.31
+    "ACTUAL_GENERATION": 12.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -1830,7 +1830,7 @@
     "Name": "Power House, Rampur HPS",
     "INST_CAP": 412.02,
     "PROGRAM_GENERATION": 75,
-    "ACTUAL GENERATION": 53.41
+    "ACTUAL_GENERATION": 53.41
   },
   {
     "CATEGORY": "HYDRO",
@@ -1843,7 +1843,7 @@
     "Name": "Sai Hydro Power Plant Brua",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1856,7 +1856,7 @@
     "Name": "Sanjay Vidyut Pariyojna HPSEBL bhabha",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 18.66
+    "ACTUAL_GENERATION": 18.66
   },
   {
     "CATEGORY": "HYDRO",
@@ -1869,7 +1869,7 @@
     "Name": "Shorang Hydro Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1882,7 +1882,7 @@
     "Name": "NSL TIDONG HEP",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1895,7 +1895,7 @@
     "Name": "Control Gate, Sundernagar, Himachal Pradesh",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1908,7 +1908,7 @@
     "Name": "Baglihar Hydro Electric Project",
     "INST_CAP": 450,
     "PROGRAM_GENERATION": 110,
-    "ACTUAL GENERATION": 94.97
+    "ACTUAL_GENERATION": 94.97
   },
   {
     "CATEGORY": "HYDRO",
@@ -1921,7 +1921,7 @@
     "Name": "Baglihar Hydro Electric Project",
     "INST_CAP": 450,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1934,7 +1934,7 @@
     "Name": "Chutak Barrage",
     "INST_CAP": 44,
     "PROGRAM_GENERATION": 3,
-    "ACTUAL GENERATION": 3.96
+    "ACTUAL_GENERATION": 3.96
   },
   {
     "CATEGORY": "HYDRO",
@@ -1947,7 +1947,7 @@
     "Name": "Dul Hasti Dam",
     "INST_CAP": 390,
     "PROGRAM_GENERATION": 72,
-    "ACTUAL GENERATION": 80.4
+    "ACTUAL_GENERATION": 80.4
   },
   {
     "CATEGORY": "HYDRO",
@@ -1960,7 +1960,7 @@
     "Name": "Kishanganga Hydroelectric Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 52,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -1973,7 +1973,7 @@
     "Name": "Lower Jhelum Hydroelectric Power Plant",
     "INST_CAP": 105,
     "PROGRAM_GENERATION": 20,
-    "ACTUAL GENERATION": 23.85
+    "ACTUAL_GENERATION": 23.85
   },
   {
     "CATEGORY": "HYDRO",
@@ -1986,7 +1986,7 @@
     "Name": "Nimoo Bazgo Hydroelectric Plant",
     "INST_CAP": 45,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 9.3
+    "ACTUAL_GENERATION": 9.3
   },
   {
     "CATEGORY": "THERMAL",
@@ -1999,7 +1999,7 @@
     "Name": "Pampore Power Grid",
     "INST_CAP": 175,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2012,7 +2012,7 @@
     "Name": "NHPC salal",
     "INST_CAP": 690,
     "PROGRAM_GENERATION": 86,
-    "ACTUAL GENERATION": 101.83
+    "ACTUAL_GENERATION": 101.83
   },
   {
     "CATEGORY": "HYDRO",
@@ -2025,7 +2025,7 @@
     "Name": "Sewa-II Power House",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 25.15
+    "ACTUAL_GENERATION": 25.15
   },
   {
     "CATEGORY": "HYDRO",
@@ -2038,7 +2038,7 @@
     "Name": "UPPER SINDH-II HPS",
     "INST_CAP": 105,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 6.91
+    "ACTUAL_GENERATION": 6.91
   },
   {
     "CATEGORY": "HYDRO",
@@ -2051,7 +2051,7 @@
     "Name": "Uri Hydroelectric Project",
     "INST_CAP": 480,
     "PROGRAM_GENERATION": 86,
-    "ACTUAL GENERATION": 102.81
+    "ACTUAL_GENERATION": 102.81
   },
   {
     "CATEGORY": "HYDRO",
@@ -2064,7 +2064,7 @@
     "Name": "Uri Hydle Project Dam",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 52,
-    "ACTUAL GENERATION": 62.28
+    "ACTUAL_GENERATION": 62.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -2077,7 +2077,7 @@
     "Name": "B' Plant",
     "INST_CAP": 630,
     "PROGRAM_GENERATION": 177,
-    "ACTUAL GENERATION": 120.32
+    "ACTUAL_GENERATION": 120.32
   },
   {
     "CATEGORY": "THERMAL",
@@ -2090,7 +2090,7 @@
     "Name": "BPSCL Power Plant",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 112,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2103,7 +2103,7 @@
     "Name": "Chandrapura Thermal Power Station(DVC)",
     "INST_CAP": 890,
     "PROGRAM_GENERATION": 420,
-    "ACTUAL GENERATION": 472.82
+    "ACTUAL_GENERATION": 472.82
   },
   {
     "CATEGORY": "THERMAL",
@@ -2116,7 +2116,7 @@
     "Name": "Jojobera Power Plant",
     "INST_CAP": 360,
     "PROGRAM_GENERATION": 217,
-    "ACTUAL GENERATION": 148.11
+    "ACTUAL_GENERATION": 148.11
   },
   {
     "CATEGORY": "THERMAL",
@@ -2129,7 +2129,7 @@
     "Name": "Koderma Power Plant",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 298,
-    "ACTUAL GENERATION": 222.44
+    "ACTUAL_GENERATION": 222.44
   },
   {
     "CATEGORY": "THERMAL",
@@ -2142,7 +2142,7 @@
     "Name": "Mahadev Prasad Super Thermal Power Plant",
     "INST_CAP": 540,
     "PROGRAM_GENERATION": 212,
-    "ACTUAL GENERATION": 292.32
+    "ACTUAL_GENERATION": 292.32
   },
   {
     "CATEGORY": "THERMAL",
@@ -2155,7 +2155,7 @@
     "Name": "Maithon Dam",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2168,7 +2168,7 @@
     "Name": "Maithon Dam",
     "INST_CAP": 63.2,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 7.25
+    "ACTUAL_GENERATION": 7.25
   },
   {
     "CATEGORY": "THERMAL",
@@ -2181,7 +2181,7 @@
     "Name": "Maithon Power Plant",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 594,
-    "ACTUAL GENERATION": 669.76
+    "ACTUAL_GENERATION": 669.76
   },
   {
     "CATEGORY": "THERMAL",
@@ -2194,7 +2194,7 @@
     "Name": "Matrishri Usha Jayaswal Thermal Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2207,7 +2207,7 @@
     "Name": "Panchet Hill Hydel Power Station",
     "INST_CAP": 80,
     "PROGRAM_GENERATION": 2,
-    "ACTUAL GENERATION": 1.83
+    "ACTUAL_GENERATION": 1.83
   },
   {
     "CATEGORY": "THERMAL",
@@ -2220,7 +2220,7 @@
     "Name": "Patratu Thermal Power Station",
     "INST_CAP": 455,
     "PROGRAM_GENERATION": 69,
-    "ACTUAL GENERATION": 27.71
+    "ACTUAL_GENERATION": 27.71
   },
   {
     "CATEGORY": "HYDRO",
@@ -2233,7 +2233,7 @@
     "Name": "Subernarekha Project 4X2 MW",
     "INST_CAP": 130,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2246,7 +2246,7 @@
     "Name": "Tenughat Vidyut Nigam Limited",
     "INST_CAP": 420,
     "PROGRAM_GENERATION": 243,
-    "ACTUAL GENERATION": 123.8
+    "ACTUAL_GENERATION": 123.8
   },
   {
     "CATEGORY": "HYDRO",
@@ -2259,7 +2259,7 @@
     "Name": "Lal Bahadur Shastri Sagar Dam",
     "INST_CAP": 290,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 16.77
+    "ACTUAL_GENERATION": 16.77
   },
   {
     "CATEGORY": "THERMAL",
@@ -2272,7 +2272,7 @@
     "Name": "TATA Power Generation Plant",
     "INST_CAP": 81.3,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2285,7 +2285,7 @@
     "Name": "KPCL-Bellary Thermal Power Station",
     "INST_CAP": 25.2,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2298,7 +2298,7 @@
     "Name": "KPCL-Bellary Thermal Power Station",
     "INST_CAP": 1700,
     "PROGRAM_GENERATION": 835,
-    "ACTUAL GENERATION": 618.46
+    "ACTUAL_GENERATION": 618.46
   },
   {
     "CATEGORY": "HYDRO",
@@ -2311,7 +2311,7 @@
     "Name": "Bhadra Dam",
     "INST_CAP": 39.2,
     "PROGRAM_GENERATION": 7,
-    "ACTUAL GENERATION": 0.05
+    "ACTUAL_GENERATION": 0.05
   },
   {
     "CATEGORY": "HYDRO",
@@ -2324,7 +2324,7 @@
     "Name": "Gerusoppa Dam",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 47,
-    "ACTUAL GENERATION": 27.59
+    "ACTUAL_GENERATION": 27.59
   },
   {
     "CATEGORY": "HYDRO",
@@ -2337,7 +2337,7 @@
     "Name": "KPCL Power Plant",
     "INST_CAP": 32,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 7.5
+    "ACTUAL_GENERATION": 7.5
   },
   {
     "CATEGORY": "HYDRO",
@@ -2350,7 +2350,7 @@
     "Name": "Sugur Mini Hydel Power Station",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 18,
-    "ACTUAL GENERATION": 0.1
+    "ACTUAL_GENERATION": 0.1
   },
   {
     "CATEGORY": "HYDRO",
@@ -2363,7 +2363,7 @@
     "Name": "Mahatma Gandhi Hydroelectric Power Plant",
     "INST_CAP": 139.2,
     "PROGRAM_GENERATION": 16,
-    "ACTUAL GENERATION": 14.26
+    "ACTUAL_GENERATION": 14.26
   },
   {
     "CATEGORY": "HYDRO",
@@ -2376,7 +2376,7 @@
     "Name": "Kadra Dam",
     "INST_CAP": 150,
     "PROGRAM_GENERATION": 23,
-    "ACTUAL GENERATION": 4.44
+    "ACTUAL_GENERATION": 4.44
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -2389,7 +2389,7 @@
     "Name": "Kaiga Nuclear Plant",
     "INST_CAP": 880,
     "PROGRAM_GENERATION": 556,
-    "ACTUAL GENERATION": 673.28
+    "ACTUAL_GENERATION": 673.28
   },
   {
     "CATEGORY": "HYDRO",
@@ -2402,7 +2402,7 @@
     "Name": "Kalinadi Nagjhari Hydroelectric Power Plant",
     "INST_CAP": 855,
     "PROGRAM_GENERATION": 227,
-    "ACTUAL GENERATION": 75.54
+    "ACTUAL_GENERATION": 75.54
   },
   {
     "CATEGORY": "HYDRO",
@@ -2415,7 +2415,7 @@
     "Name": "Kalinadi Nagjhari Hydroelectric Power Plant",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 58,
-    "ACTUAL GENERATION": 15.95
+    "ACTUAL_GENERATION": 15.95
   },
   {
     "CATEGORY": "HYDRO",
@@ -2428,7 +2428,7 @@
     "Name": "Kodasalli Hydel Project",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 27,
-    "ACTUAL GENERATION": 5.64
+    "ACTUAL_GENERATION": 5.64
   },
   {
     "CATEGORY": "THERMAL",
@@ -2441,7 +2441,7 @@
     "Name": "NTPC Kudgi STPP",
     "INST_CAP": 800,
     "PROGRAM_GENERATION": 179,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2454,7 +2454,7 @@
     "Name": "Linganamakki Dam",
     "INST_CAP": 55,
     "PROGRAM_GENERATION": 29,
-    "ACTUAL GENERATION": 16.06
+    "ACTUAL_GENERATION": 16.06
   },
   {
     "CATEGORY": "HYDRO",
@@ -2467,7 +2467,7 @@
     "Name": "Munirabad Power House",
     "INST_CAP": 28,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2480,7 +2480,7 @@
     "Name": "Raichur Thermal Power Station",
     "INST_CAP": 1720,
     "PROGRAM_GENERATION": 968,
-    "ACTUAL GENERATION": 1053.83
+    "ACTUAL_GENERATION": 1053.83
   },
   {
     "CATEGORY": "HYDRO",
@@ -2493,7 +2493,7 @@
     "Name": "Sharavati Power Generation Plant",
     "INST_CAP": 1035,
     "PROGRAM_GENERATION": 452,
-    "ACTUAL GENERATION": 319.27
+    "ACTUAL_GENERATION": 319.27
   },
   {
     "CATEGORY": "HYDRO",
@@ -2506,7 +2506,7 @@
     "Name": "Shivanasamudra Hydroelectric Power Station",
     "INST_CAP": 42,
     "PROGRAM_GENERATION": 19,
-    "ACTUAL GENERATION": 1.62
+    "ACTUAL_GENERATION": 1.62
   },
   {
     "CATEGORY": "HYDRO",
@@ -2519,7 +2519,7 @@
     "Name": "TB Dam Power House",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 1.7
+    "ACTUAL_GENERATION": 1.7
   },
   {
     "CATEGORY": "THERMAL",
@@ -2532,7 +2532,7 @@
     "Name": "JSW Energy Limited",
     "INST_CAP": 260,
     "PROGRAM_GENERATION": 181,
-    "ACTUAL GENERATION": 165.68
+    "ACTUAL_GENERATION": 165.68
   },
   {
     "CATEGORY": "THERMAL",
@@ -2545,7 +2545,7 @@
     "Name": "JSW Energy Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 387,
-    "ACTUAL GENERATION": 235.97
+    "ACTUAL_GENERATION": 235.97
   },
   {
     "CATEGORY": "THERMAL",
@@ -2558,7 +2558,7 @@
     "Name": "Udupi Power Corporation Limited",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 726,
-    "ACTUAL GENERATION": 774.31
+    "ACTUAL_GENERATION": 774.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -2571,7 +2571,7 @@
     "Name": "Varahi Underground Power House",
     "INST_CAP": 460,
     "PROGRAM_GENERATION": 95,
-    "ACTUAL GENERATION": 42.2
+    "ACTUAL_GENERATION": 42.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -2584,7 +2584,7 @@
     "Name": "Karnataka Power Corporation Limited ( KPCL) Deisel Generation Plant",
     "INST_CAP": 127.92,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2597,7 +2597,7 @@
     "Name": "Yermarus Thermal Power Station(Yeganur)",
     "INST_CAP": 800,
     "PROGRAM_GENERATION": 445,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2610,7 +2610,7 @@
     "Name": "Brahmapuram Diesel Power Plant",
     "INST_CAP": 63.96,
     "PROGRAM_GENERATION": 3,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -2623,7 +2623,7 @@
     "Name": "BSES Kerala Power Limited",
     "INST_CAP": 174,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2636,7 +2636,7 @@
     "Name": "Idamalayar Power House",
     "INST_CAP": 75,
     "PROGRAM_GENERATION": 26,
-    "ACTUAL GENERATION": 14.92
+    "ACTUAL_GENERATION": 14.92
   },
   {
     "CATEGORY": "HYDRO",
@@ -2649,7 +2649,7 @@
     "Name": "Idukki Power Station",
     "INST_CAP": 780,
     "PROGRAM_GENERATION": 199,
-    "ACTUAL GENERATION": 75.92
+    "ACTUAL_GENERATION": 75.92
   },
   {
     "CATEGORY": "HYDRO",
@@ -2662,7 +2662,7 @@
     "Name": "Kakkad Hydro Electric Power Station",
     "INST_CAP": 50,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 6.14
+    "ACTUAL_GENERATION": 6.14
   },
   {
     "CATEGORY": "THERMAL",
@@ -2675,7 +2675,7 @@
     "Name": "KSEB Diesel Power Plant",
     "INST_CAP": 96,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2688,7 +2688,7 @@
     "Name": "Kakkayam KSEB Substation",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 11.15
+    "ACTUAL_GENERATION": 11.15
   },
   {
     "CATEGORY": "HYDRO",
@@ -2701,7 +2701,7 @@
     "Name": "Kuttiadi Tailrace Power House,Kakkayam",
     "INST_CAP": 125,
     "PROGRAM_GENERATION": 38,
-    "ACTUAL GENERATION": 20.49
+    "ACTUAL_GENERATION": 20.49
   },
   {
     "CATEGORY": "HYDRO",
@@ -2714,7 +2714,7 @@
     "Name": "Lower Periyar Dam",
     "INST_CAP": 180,
     "PROGRAM_GENERATION": 17,
-    "ACTUAL GENERATION": 3.58
+    "ACTUAL_GENERATION": 3.58
   },
   {
     "CATEGORY": "HYDRO",
@@ -2727,7 +2727,7 @@
     "Name": "Neriamangalam Hydro Electric Power Station",
     "INST_CAP": 70,
     "PROGRAM_GENERATION": 14,
-    "ACTUAL GENERATION": 3.63
+    "ACTUAL_GENERATION": 3.63
   },
   {
     "CATEGORY": "HYDRO",
@@ -2740,7 +2740,7 @@
     "Name": "Pallivasal Powerhouse",
     "INST_CAP": 37.5,
     "PROGRAM_GENERATION": 14,
-    "ACTUAL GENERATION": 6.19
+    "ACTUAL_GENERATION": 6.19
   },
   {
     "CATEGORY": "HYDRO",
@@ -2753,7 +2753,7 @@
     "Name": "Panniar Hydro Electric Project",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 1.64
+    "ACTUAL_GENERATION": 1.64
   },
   {
     "CATEGORY": "HYDRO",
@@ -2766,7 +2766,7 @@
     "Name": "Poringalkuthu Hydroelectric Power Station",
     "INST_CAP": 32,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 5.73
+    "ACTUAL_GENERATION": 5.73
   },
   {
     "CATEGORY": "THERMAL",
@@ -2779,7 +2779,7 @@
     "Name": "Rajiv Gandhi Combined Cycle Power Plant",
     "INST_CAP": 359.58,
     "PROGRAM_GENERATION": 47,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2792,7 +2792,7 @@
     "Name": "Sabarigiri Hydroelectric Power Plant India",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 79,
-    "ACTUAL GENERATION": 40.69
+    "ACTUAL_GENERATION": 40.69
   },
   {
     "CATEGORY": "HYDRO",
@@ -2805,7 +2805,7 @@
     "Name": "Sengulam Hydro Electric Project",
     "INST_CAP": 48,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 2.6
+    "ACTUAL_GENERATION": 2.6
   },
   {
     "CATEGORY": "HYDRO",
@@ -2818,7 +2818,7 @@
     "Name": "Sholayar I Hydroelectric Power House",
     "INST_CAP": 54,
     "PROGRAM_GENERATION": 24,
-    "ACTUAL GENERATION": 14.91
+    "ACTUAL_GENERATION": 14.91
   },
   {
     "CATEGORY": "THERMAL",
@@ -2831,7 +2831,7 @@
     "Name": "Amarkantak Thermal Power Station",
     "INST_CAP": 210,
     "PROGRAM_GENERATION": 146,
-    "ACTUAL GENERATION": 154.19
+    "ACTUAL_GENERATION": 154.19
   },
   {
     "CATEGORY": "THERMAL",
@@ -2844,7 +2844,7 @@
     "Name": "Home service",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 521,
-    "ACTUAL GENERATION": 373.19
+    "ACTUAL_GENERATION": 373.19
   },
   {
     "CATEGORY": "HYDRO",
@@ -2857,7 +2857,7 @@
     "Name": "Sakhi Village, Beohari tehsil",
     "INST_CAP": 315,
     "PROGRAM_GENERATION": 90,
-    "ACTUAL GENERATION": 123.16
+    "ACTUAL_GENERATION": 123.16
   },
   {
     "CATEGORY": "HYDRO",
@@ -2870,7 +2870,7 @@
     "Name": "Bansagar Dam",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 13.05
+    "ACTUAL_GENERATION": 13.05
   },
   {
     "CATEGORY": "HYDRO",
@@ -2883,7 +2883,7 @@
     "Name": "Bansagar Hydroelectric Power Plant",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 15,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2896,7 +2896,7 @@
     "Name": "Hydal Plant Bargi",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 32.41
+    "ACTUAL_GENERATION": 32.41
   },
   {
     "CATEGORY": "THERMAL",
@@ -2909,7 +2909,7 @@
     "Name": "bina thermal power plant",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 212,
-    "ACTUAL GENERATION": 75.98
+    "ACTUAL_GENERATION": 75.98
   },
   {
     "CATEGORY": "THERMAL",
@@ -2922,7 +2922,7 @@
     "Name": "NTPC Powerplant Gadarwara",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -2935,7 +2935,7 @@
     "Name": "Gandhi Sagar Hydroelectric power station",
     "INST_CAP": 115,
     "PROGRAM_GENERATION": 36,
-    "ACTUAL GENERATION": 68.78
+    "ACTUAL_GENERATION": 68.78
   },
   {
     "CATEGORY": "HYDRO",
@@ -2948,7 +2948,7 @@
     "Name": "Indira Sagar Dam (Punasa Dam)",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 230,
-    "ACTUAL GENERATION": 263.6
+    "ACTUAL_GENERATION": 263.6
   },
   {
     "CATEGORY": "HYDRO",
@@ -2961,7 +2961,7 @@
     "Name": "Atal Sagar Power Plant(Madikheda Hydroelectric power generation plant) MPPGCL",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 7,
-    "ACTUAL GENERATION": 8.96
+    "ACTUAL_GENERATION": 8.96
   },
   {
     "CATEGORY": "THERMAL",
@@ -2974,7 +2974,7 @@
     "Name": "Essar Power MP Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 317.45
+    "ACTUAL_GENERATION": 317.45
   },
   {
     "CATEGORY": "HYDRO",
@@ -2987,7 +2987,7 @@
     "Name": "Maheshwar Hydel Project",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3000,7 +3000,7 @@
     "Name": "Jaypee Nigrie Thermal Power Plant",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 510,
-    "ACTUAL GENERATION": 640.18
+    "ACTUAL_GENERATION": 640.18
   },
   {
     "CATEGORY": "THERMAL",
@@ -3013,7 +3013,7 @@
     "Name": "BLA Power Pvt Ltd",
     "INST_CAP": 45,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 22.64
+    "ACTUAL_GENERATION": 22.64
   },
   {
     "CATEGORY": "HYDRO",
@@ -3026,7 +3026,7 @@
     "Name": "Omkareshwar Dam",
     "INST_CAP": 520,
     "PROGRAM_GENERATION": 110,
-    "ACTUAL GENERATION": 110.33
+    "ACTUAL_GENERATION": 110.33
   },
   {
     "CATEGORY": "HYDRO",
@@ -3039,7 +3039,7 @@
     "Name": "Pench (Totladoh) Hydroelectric Power Plant India",
     "INST_CAP": 160,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 33.69
+    "ACTUAL_GENERATION": 33.69
   },
   {
     "CATEGORY": "HYDRO",
@@ -3052,7 +3052,7 @@
     "Name": "Rajghat Thermal Power Plant",
     "INST_CAP": 45,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 12.62
+    "ACTUAL_GENERATION": 12.62
   },
   {
     "CATEGORY": "THERMAL",
@@ -3065,7 +3065,7 @@
     "Name": "Sanjay Gandhi Thermal Power Plant",
     "INST_CAP": 1340,
     "PROGRAM_GENERATION": 618,
-    "ACTUAL GENERATION": 705.3
+    "ACTUAL_GENERATION": 705.3
   },
   {
     "CATEGORY": "THERMAL",
@@ -3078,7 +3078,7 @@
     "Name": "Reliance Sasan Ultra Mega Power",
     "INST_CAP": 3960,
     "PROGRAM_GENERATION": 2790,
-    "ACTUAL GENERATION": 2768.09
+    "ACTUAL_GENERATION": 2768.09
   },
   {
     "CATEGORY": "THERMAL",
@@ -3091,7 +3091,7 @@
     "Name": "Satpura Thermal Power Station",
     "INST_CAP": 1330,
     "PROGRAM_GENERATION": 487,
-    "ACTUAL GENERATION": 370.66
+    "ACTUAL_GENERATION": 370.66
   },
   {
     "CATEGORY": "THERMAL",
@@ -3104,7 +3104,7 @@
     "Name": "habua Power Limited, APIL",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 172,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3117,7 +3117,7 @@
     "Name": "Shree Singaji Thermal Power Project",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 581,
-    "ACTUAL GENERATION": 433.02
+    "ACTUAL_GENERATION": 433.02
   },
   {
     "CATEGORY": "THERMAL",
@@ -3130,7 +3130,7 @@
     "Name": "Vindhyachal Super Thermal Power Station",
     "INST_CAP": 4760,
     "PROGRAM_GENERATION": 2601,
-    "ACTUAL GENERATION": 2805.8
+    "ACTUAL_GENERATION": 2805.8
   },
   {
     "CATEGORY": "THERMAL",
@@ -3143,7 +3143,7 @@
     "Name": "RattanIndia Power Limited",
     "INST_CAP": 1350,
     "PROGRAM_GENERATION": 641,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3156,7 +3156,7 @@
     "Name": "Ideal Energy Projects Ltd, Power Ltd.",
     "INST_CAP": 270,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3169,7 +3169,7 @@
     "Name": "Bhandardara Dam",
     "INST_CAP": 34,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 5.14
+    "ACTUAL_GENERATION": 5.14
   },
   {
     "CATEGORY": "HYDRO",
@@ -3182,7 +3182,7 @@
     "Name": "Bhira Power Plant",
     "INST_CAP": 150,
     "PROGRAM_GENERATION": 75,
-    "ACTUAL GENERATION": 37.35
+    "ACTUAL_GENERATION": 37.35
   },
   {
     "CATEGORY": "HYDRO",
@@ -3195,7 +3195,7 @@
     "Name": "BHIRA PSS Hydro Power Plant",
     "INST_CAP": 150,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 54.29
+    "ACTUAL_GENERATION": 54.29
   },
   {
     "CATEGORY": "HYDRO",
@@ -3208,7 +3208,7 @@
     "Name": "Bhira Tail Race Hydroelectric Power Plant India",
     "INST_CAP": 80,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 9.01
+    "ACTUAL_GENERATION": 9.01
   },
   {
     "CATEGORY": "HYDRO",
@@ -3221,7 +3221,7 @@
     "Name": "Bhivpuri Hydroelectric Power Plant India",
     "INST_CAP": 75,
     "PROGRAM_GENERATION": 33,
-    "ACTUAL GENERATION": 32.17
+    "ACTUAL_GENERATION": 32.17
   },
   {
     "CATEGORY": "THERMAL",
@@ -3234,7 +3234,7 @@
     "Name": "2 * 210 MW - Bhusawal Thermal Power Station",
     "INST_CAP": 1420,
     "PROGRAM_GENERATION": 760,
-    "ACTUAL GENERATION": 609.91
+    "ACTUAL_GENERATION": 609.91
   },
   {
     "CATEGORY": "THERMAL",
@@ -3247,7 +3247,7 @@
     "Name": "Reliance Power Plant",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 334,
-    "ACTUAL GENERATION": 196.19
+    "ACTUAL_GENERATION": 196.19
   },
   {
     "CATEGORY": "THERMAL",
@@ -3260,7 +3260,7 @@
     "Name": "Chandrapur Super Thermal Power Station",
     "INST_CAP": 2920,
     "PROGRAM_GENERATION": 1477,
-    "ACTUAL GENERATION": 1483.54
+    "ACTUAL_GENERATION": 1483.54
   },
   {
     "CATEGORY": "THERMAL",
@@ -3273,7 +3273,7 @@
     "Name": "Adani Dahanu Thermal Power Station",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 221,
-    "ACTUAL GENERATION": 323.7
+    "ACTUAL_GENERATION": 323.7
   },
   {
     "CATEGORY": "THERMAL",
@@ -3286,7 +3286,7 @@
     "Name": "Dhariwal Infrastructure Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 93,
-    "ACTUAL GENERATION": 137.55
+    "ACTUAL_GENERATION": 137.55
   },
   {
     "CATEGORY": "THERMAL",
@@ -3299,7 +3299,7 @@
     "Name": "GMR Warora Energy Limited",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 332,
-    "ACTUAL GENERATION": 373.19
+    "ACTUAL_GENERATION": 373.19
   },
   {
     "CATEGORY": "THERMAL",
@@ -3312,7 +3312,7 @@
     "Name": "Gupta Energy Pvt Ltd",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3325,7 +3325,7 @@
     "Name": "Ghatghar Hydro Power Station",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 36,
-    "ACTUAL GENERATION": 61.63
+    "ACTUAL_GENERATION": 61.63
   },
   {
     "CATEGORY": "THERMAL",
@@ -3338,7 +3338,7 @@
     "Name": "JSW Energy Ltd",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 729,
-    "ACTUAL GENERATION": 284.75
+    "ACTUAL_GENERATION": 284.75
   },
   {
     "CATEGORY": "THERMAL",
@@ -3351,7 +3351,7 @@
     "Name": "Khaparkheda Thermal Power Station",
     "INST_CAP": 1340,
     "PROGRAM_GENERATION": 665,
-    "ACTUAL GENERATION": 765.37
+    "ACTUAL_GENERATION": 765.37
   },
   {
     "CATEGORY": "HYDRO",
@@ -3364,7 +3364,7 @@
     "Name": "Tata Power Khopoli",
     "INST_CAP": 72,
     "PROGRAM_GENERATION": 22,
-    "ACTUAL GENERATION": 36.72
+    "ACTUAL_GENERATION": 36.72
   },
   {
     "CATEGORY": "THERMAL",
@@ -3377,7 +3377,7 @@
     "Name": "Koradi Super Thermal Power Station",
     "INST_CAP": 2600,
     "PROGRAM_GENERATION": 1041,
-    "ACTUAL GENERATION": 627.84
+    "ACTUAL_GENERATION": 627.84
   },
   {
     "CATEGORY": "HYDRO",
@@ -3390,7 +3390,7 @@
     "Name": "Koyna Hydroelectric Power Plant",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 14.28
+    "ACTUAL_GENERATION": 14.28
   },
   {
     "CATEGORY": "HYDRO",
@@ -3403,7 +3403,7 @@
     "Name": "Koyna Hydroelectric Power Plant",
     "INST_CAP": 280,
     "PROGRAM_GENERATION": 70,
-    "ACTUAL GENERATION": 57.92
+    "ACTUAL_GENERATION": 57.92
   },
   {
     "CATEGORY": "HYDRO",
@@ -3416,7 +3416,7 @@
     "Name": "Koyna Hydroelectric Power Plant",
     "INST_CAP": 320,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 60.77
+    "ACTUAL_GENERATION": 60.77
   },
   {
     "CATEGORY": "HYDRO",
@@ -3429,7 +3429,7 @@
     "Name": "Koyna Hydroelectric Power Plant",
     "INST_CAP": 320,
     "PROGRAM_GENERATION": 46,
-    "ACTUAL GENERATION": 62.04
+    "ACTUAL_GENERATION": 62.04
   },
   {
     "CATEGORY": "HYDRO",
@@ -3442,7 +3442,7 @@
     "Name": "Koyna Hydroelectric Power Plant",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 150,
-    "ACTUAL GENERATION": 171.23
+    "ACTUAL_GENERATION": 171.23
   },
   {
     "CATEGORY": "THERMAL",
@@ -3455,7 +3455,7 @@
     "Name": "Lanco Vidarbha Thermal Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3468,7 +3468,7 @@
     "Name": "Pioneer Gas Power Ltd.",
     "INST_CAP": 388,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 23.96
+    "ACTUAL_GENERATION": 23.96
   },
   {
     "CATEGORY": "THERMAL",
@@ -3481,7 +3481,7 @@
     "Name": "Mauda Super Thermal Power Station",
     "INST_CAP": 1660,
     "PROGRAM_GENERATION": 268,
-    "ACTUAL GENERATION": 407.9
+    "ACTUAL_GENERATION": 407.9
   },
   {
     "CATEGORY": "THERMAL",
@@ -3494,7 +3494,7 @@
     "Name": "Abhijeet Mihan Coal Power Plant",
     "INST_CAP": 246,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3507,7 +3507,7 @@
     "Name": "Nashik Thermal Power Station",
     "INST_CAP": 270,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3520,7 +3520,7 @@
     "Name": "Nashik Thermal Power Station",
     "INST_CAP": 630,
     "PROGRAM_GENERATION": 344,
-    "ACTUAL GENERATION": 259.2
+    "ACTUAL_GENERATION": 259.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -3533,7 +3533,7 @@
     "Name": "Paras Thermal Power Station",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 280,
-    "ACTUAL GENERATION": 155.78
+    "ACTUAL_GENERATION": 155.78
   },
   {
     "CATEGORY": "THERMAL",
@@ -3546,7 +3546,7 @@
     "Name": "MSPGCL Parali Thermal Power Plant",
     "INST_CAP": 1170,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 307.48
+    "ACTUAL_GENERATION": 307.48
   },
   {
     "CATEGORY": "THERMAL",
@@ -3559,7 +3559,7 @@
     "Name": "Anjanwel",
     "INST_CAP": 740,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -3572,7 +3572,7 @@
     "Name": "Ratnagiri Gas Power Pvt Ltd (RGPPL)",
     "INST_CAP": 740,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 270.05
+    "ACTUAL_GENERATION": 270.05
   },
   {
     "CATEGORY": "THERMAL",
@@ -3585,7 +3585,7 @@
     "Name": "Ratnagiri Gas and Power",
     "INST_CAP": 740,
     "PROGRAM_GENERATION": 255,
-    "ACTUAL GENERATION": 113.11
+    "ACTUAL_GENERATION": 113.11
   },
   {
     "CATEGORY": "THERMAL",
@@ -3598,7 +3598,7 @@
     "Name": "Solapur Super Thermal Power Station",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -3611,7 +3611,7 @@
     "Name": "Tarapur Atomic Power Station",
     "INST_CAP": 1400,
     "PROGRAM_GENERATION": 540,
-    "ACTUAL GENERATION": 1038.48
+    "ACTUAL_GENERATION": 1038.48
   },
   {
     "CATEGORY": "HYDRO",
@@ -3624,7 +3624,7 @@
     "Name": "Tilari Project",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 12.84
+    "ACTUAL_GENERATION": 12.84
   },
   {
     "CATEGORY": "THERMAL",
@@ -3637,7 +3637,7 @@
     "Name": "Adani 5x660MW Power Plant Tiroda",
     "INST_CAP": 3300,
     "PROGRAM_GENERATION": 1776,
-    "ACTUAL GENERATION": 1470.21
+    "ACTUAL_GENERATION": 1470.21
   },
   {
     "CATEGORY": "THERMAL",
@@ -3650,7 +3650,7 @@
     "Name": "Tata Power Trombay Thermal Plant",
     "INST_CAP": 180,
     "PROGRAM_GENERATION": 77,
-    "ACTUAL GENERATION": 97.55
+    "ACTUAL_GENERATION": 97.55
   },
   {
     "CATEGORY": "THERMAL",
@@ -3663,7 +3663,7 @@
     "Name": "Tata Power Trombay Thermal Plant",
     "INST_CAP": 1400,
     "PROGRAM_GENERATION": 252,
-    "ACTUAL GENERATION": 191.03
+    "ACTUAL_GENERATION": 191.03
   },
   {
     "CATEGORY": "THERMAL",
@@ -3676,7 +3676,7 @@
     "Name": "Maharashtra State Power Generation Company Limited",
     "INST_CAP": 672,
     "PROGRAM_GENERATION": 211,
-    "ACTUAL GENERATION": 259.02
+    "ACTUAL_GENERATION": 259.02
   },
   {
     "CATEGORY": "HYDRO",
@@ -3689,7 +3689,7 @@
     "Name": "Vaitarna Hydroelectric Power Plant India",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 27,
-    "ACTUAL GENERATION": 23.17
+    "ACTUAL_GENERATION": 23.17
   },
   {
     "CATEGORY": "THERMAL",
@@ -3702,7 +3702,7 @@
     "Name": "Wardha Power Company Limited",
     "INST_CAP": 540,
     "PROGRAM_GENERATION": 184,
-    "ACTUAL GENERATION": 117.75
+    "ACTUAL_GENERATION": 117.75
   },
   {
     "CATEGORY": "THERMAL",
@@ -3715,7 +3715,7 @@
     "Name": "Leimakhong Oil Power Plant",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3728,7 +3728,7 @@
     "Name": "Loktak Power Station",
     "INST_CAP": 105,
     "PROGRAM_GENERATION": 37,
-    "ACTUAL GENERATION": 59.05
+    "ACTUAL_GENERATION": 59.05
   },
   {
     "CATEGORY": "HYDRO",
@@ -3741,7 +3741,7 @@
     "Name": "Gati Hydro Electric Power House",
     "INST_CAP": 50,
     "PROGRAM_GENERATION": 3,
-    "ACTUAL GENERATION": 9.92
+    "ACTUAL_GENERATION": 9.92
   },
   {
     "CATEGORY": "HYDRO",
@@ -3754,7 +3754,7 @@
     "Name": "Kyrdemkulai Hydroelectric Power Plant India",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 5.93
+    "ACTUAL_GENERATION": 5.93
   },
   {
     "CATEGORY": "HYDRO",
@@ -3767,7 +3767,7 @@
     "Name": "Damsite Of Myntdu Leshka H E Project",
     "INST_CAP": 126,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 4.02
+    "ACTUAL_GENERATION": 4.02
   },
   {
     "CATEGORY": "HYDRO",
@@ -3780,7 +3780,7 @@
     "Name": "11.2 MW Umtru Power House, MePGCL",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3793,7 +3793,7 @@
     "Name": "Umiam I Hydroelectric Power Plant",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 4.5
+    "ACTUAL_GENERATION": 4.5
   },
   {
     "CATEGORY": "HYDRO",
@@ -3806,7 +3806,7 @@
     "Name": "Umiam I Hydroelectric Power Plant",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 5.84
+    "ACTUAL_GENERATION": 5.84
   },
   {
     "CATEGORY": "HYDRO",
@@ -3819,7 +3819,7 @@
     "Name": "Tuirial Dam",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3832,7 +3832,7 @@
     "Name": "Doyang Hydro Electric Project",
     "INST_CAP": 75,
     "PROGRAM_GENERATION": 4,
-    "ACTUAL GENERATION": 6.41
+    "ACTUAL_GENERATION": 6.41
   },
   {
     "CATEGORY": "HYDRO",
@@ -3845,7 +3845,7 @@
     "Name": "Balimela Power House",
     "INST_CAP": 510,
     "PROGRAM_GENERATION": 74,
-    "ACTUAL GENERATION": 79.49
+    "ACTUAL_GENERATION": 79.49
   },
   {
     "CATEGORY": "THERMAL",
@@ -3858,7 +3858,7 @@
     "Name": "Angul Jindal India Thermal Power Limited",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 468,
-    "ACTUAL GENERATION": 376.93
+    "ACTUAL_GENERATION": 376.93
   },
   {
     "CATEGORY": "HYDRO",
@@ -3871,7 +3871,7 @@
     "Name": "Hirakud Captive Power Plant",
     "INST_CAP": 347.5,
     "PROGRAM_GENERATION": 44,
-    "ACTUAL GENERATION": 25.88
+    "ACTUAL_GENERATION": 25.88
   },
   {
     "CATEGORY": "THERMAL",
@@ -3884,7 +3884,7 @@
     "Name": "Ib Thermal Power Stati",
     "INST_CAP": 420,
     "PROGRAM_GENERATION": 288,
-    "ACTUAL GENERATION": 304.72
+    "ACTUAL_GENERATION": 304.72
   },
   {
     "CATEGORY": "THERMAL",
@@ -3897,7 +3897,7 @@
     "Name": "IMFA Thermal Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 33.78
+    "ACTUAL_GENERATION": 33.78
   },
   {
     "CATEGORY": "THERMAL",
@@ -3910,7 +3910,7 @@
     "Name": "GMR Kamalanga Energy Limited",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 560,
-    "ACTUAL GENERATION": 434.45
+    "ACTUAL_GENERATION": 434.45
   },
   {
     "CATEGORY": "THERMAL",
@@ -3923,7 +3923,7 @@
     "Name": "Lanco Babandh Power Project",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -3936,7 +3936,7 @@
     "Name": "Machkund Hydroelectric Project",
     "INST_CAP": 114.75,
     "PROGRAM_GENERATION": 42,
-    "ACTUAL GENERATION": 68.98
+    "ACTUAL_GENERATION": 68.98
   },
   {
     "CATEGORY": "THERMAL",
@@ -3949,7 +3949,7 @@
     "Name": "Captive Power Plant",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 21,
-    "ACTUAL GENERATION": 30
+    "ACTUAL_GENERATION": 30
   },
   {
     "CATEGORY": "HYDRO",
@@ -3962,7 +3962,7 @@
     "Name": "Rengali Dam",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 19,
-    "ACTUAL GENERATION": 13.19
+    "ACTUAL_GENERATION": 13.19
   },
   {
     "CATEGORY": "THERMAL",
@@ -3975,7 +3975,7 @@
     "Name": "Vedanta Limited",
     "INST_CAP": 2400,
     "PROGRAM_GENERATION": 741,
-    "ACTUAL GENERATION": 621.69
+    "ACTUAL_GENERATION": 621.69
   },
   {
     "CATEGORY": "THERMAL",
@@ -3988,7 +3988,7 @@
     "Name": "INSURANCE(LIC,ORIENTAL)",
     "INST_CAP": 460,
     "PROGRAM_GENERATION": 307,
-    "ACTUAL GENERATION": 326.34
+    "ACTUAL_GENERATION": 326.34
   },
   {
     "CATEGORY": "THERMAL",
@@ -4001,7 +4001,7 @@
     "Name": "INSURANCE(LIC,ORIENTAL)",
     "INST_CAP": 3000,
     "PROGRAM_GENERATION": 1993,
-    "ACTUAL GENERATION": 2127.89
+    "ACTUAL_GENERATION": 2127.89
   },
   {
     "CATEGORY": "HYDRO",
@@ -4014,7 +4014,7 @@
     "Name": "Upper Indravati Hydroelectric Power Project",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 149,
-    "ACTUAL GENERATION": 102.64
+    "ACTUAL_GENERATION": 102.64
   },
   {
     "CATEGORY": "HYDRO",
@@ -4027,7 +4027,7 @@
     "Name": "Kolab Dam",
     "INST_CAP": 320,
     "PROGRAM_GENERATION": 46,
-    "ACTUAL GENERATION": 42.4
+    "ACTUAL_GENERATION": 42.4
   },
   {
     "CATEGORY": "THERMAL",
@@ -4040,7 +4040,7 @@
     "Name": "Ind Bharat Energy Utkal Limitrd",
     "INST_CAP": 350,
     "PROGRAM_GENERATION": 257,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4053,7 +4053,7 @@
     "Name": "Karaikal Gas CCGT India",
     "INST_CAP": 32.5,
     "PROGRAM_GENERATION": 21,
-    "ACTUAL GENERATION": 21.61
+    "ACTUAL_GENERATION": 21.61
   },
   {
     "CATEGORY": "HYDRO",
@@ -4066,7 +4066,7 @@
     "Name": "Anandpur Sahib Hydroelectric Power Stations India",
     "INST_CAP": 134,
     "PROGRAM_GENERATION": 45,
-    "ACTUAL GENERATION": 42.56
+    "ACTUAL_GENERATION": 42.56
   },
   {
     "CATEGORY": "HYDRO",
@@ -4079,7 +4079,7 @@
     "Name": "Bhakhra Dam",
     "INST_CAP": 1325,
     "PROGRAM_GENERATION": 334,
-    "ACTUAL GENERATION": 324.77
+    "ACTUAL_GENERATION": 324.77
   },
   {
     "CATEGORY": "HYDRO",
@@ -4092,7 +4092,7 @@
     "Name": "Dehar Power House",
     "INST_CAP": 990,
     "PROGRAM_GENERATION": 91,
-    "ACTUAL GENERATION": 95.42
+    "ACTUAL_GENERATION": 95.42
   },
   {
     "CATEGORY": "HYDRO",
@@ -4105,7 +4105,7 @@
     "Name": "Ganguwal Power House II",
     "INST_CAP": 77.65,
     "PROGRAM_GENERATION": 39,
-    "ACTUAL GENERATION": 36.67
+    "ACTUAL_GENERATION": 36.67
   },
   {
     "CATEGORY": "THERMAL",
@@ -4118,7 +4118,7 @@
     "Name": "Guru Hargobind Thermal Plant",
     "INST_CAP": 920,
     "PROGRAM_GENERATION": 336,
-    "ACTUAL GENERATION": 174.51
+    "ACTUAL_GENERATION": 174.51
   },
   {
     "CATEGORY": "THERMAL",
@@ -4131,7 +4131,7 @@
     "Name": "Guru Nanak Dev Thermal Plant, Bathinda",
     "INST_CAP": 440,
     "PROGRAM_GENERATION": 72,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4144,7 +4144,7 @@
     "Name": "Goindwal Sahib Power Project",
     "INST_CAP": 540,
     "PROGRAM_GENERATION": 121,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4157,7 +4157,7 @@
     "Name": "Kotla Power House",
     "INST_CAP": 77.65,
     "PROGRAM_GENERATION": 38,
-    "ACTUAL GENERATION": 39.12
+    "ACTUAL_GENERATION": 39.12
   },
   {
     "CATEGORY": "HYDRO",
@@ -4170,7 +4170,7 @@
     "Name": "Mukerian Hydroelectric Power Station India",
     "INST_CAP": 207,
     "PROGRAM_GENERATION": 102,
-    "ACTUAL GENERATION": 114.54
+    "ACTUAL_GENERATION": 114.54
   },
   {
     "CATEGORY": "HYDRO",
@@ -4183,7 +4183,7 @@
     "Name": "Pong Dam Hydroelectric Power Station India",
     "INST_CAP": 396,
     "PROGRAM_GENERATION": 67,
-    "ACTUAL GENERATION": 124.82
+    "ACTUAL_GENERATION": 124.82
   },
   {
     "CATEGORY": "THERMAL",
@@ -4196,7 +4196,7 @@
     "Name": "Rajpura Thermal Power Station",
     "INST_CAP": 1400,
     "PROGRAM_GENERATION": 660,
-    "ACTUAL GENERATION": 816.33
+    "ACTUAL_GENERATION": 816.33
   },
   {
     "CATEGORY": "HYDRO",
@@ -4209,7 +4209,7 @@
     "Name": "Ranjit Sagar Dam Lake",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 90,
-    "ACTUAL GENERATION": 58.76
+    "ACTUAL_GENERATION": 58.76
   },
   {
     "CATEGORY": "THERMAL",
@@ -4222,7 +4222,7 @@
     "Name": "Guru Gobind Singh Super Thermal Power Plant",
     "INST_CAP": 1260,
     "PROGRAM_GENERATION": 318,
-    "ACTUAL GENERATION": 28.08
+    "ACTUAL_GENERATION": 28.08
   },
   {
     "CATEGORY": "HYDRO",
@@ -4235,7 +4235,7 @@
     "Name": "Shanan Power House",
     "INST_CAP": 110,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 12.55
+    "ACTUAL_GENERATION": 12.55
   },
   {
     "CATEGORY": "THERMAL",
@@ -4248,7 +4248,7 @@
     "Name": "Talwandi Sabo Power Limited (TSPL)",
     "INST_CAP": 1980,
     "PROGRAM_GENERATION": 631,
-    "ACTUAL GENERATION": 639.58
+    "ACTUAL_GENERATION": 639.58
   },
   {
     "CATEGORY": "THERMAL",
@@ -4261,7 +4261,7 @@
     "Name": "Anta Gas Power Station",
     "INST_CAP": 419.33,
     "PROGRAM_GENERATION": 99,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4274,7 +4274,7 @@
     "Name": "Barsingsar Thermal Power Station",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 150,
-    "ACTUAL GENERATION": 171.97
+    "ACTUAL_GENERATION": 171.97
   },
   {
     "CATEGORY": "THERMAL",
@@ -4287,7 +4287,7 @@
     "Name": "Chhabra Thermal Power Plant",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 432,
-    "ACTUAL GENERATION": 613.49
+    "ACTUAL_GENERATION": 613.49
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -4300,7 +4300,7 @@
     "Name": "Rajasthan Atomic Power Station",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4313,7 +4313,7 @@
     "Name": "Dholpur Thermal Power Station",
     "INST_CAP": 330,
     "PROGRAM_GENERATION": 33,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4326,7 +4326,7 @@
     "Name": "Giral Lignite Power Plant",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 37,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4339,7 +4339,7 @@
     "Name": "JSW Energy (Barmer) Limited",
     "INST_CAP": 1080,
     "PROGRAM_GENERATION": 700,
-    "ACTUAL GENERATION": 592.41
+    "ACTUAL_GENERATION": 592.41
   },
   {
     "CATEGORY": "HYDRO",
@@ -4352,7 +4352,7 @@
     "Name": "Jawahar Sagar Dam Hydroelectric Power Plant",
     "INST_CAP": 99,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 46.2
+    "ACTUAL_GENERATION": 46.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -4365,7 +4365,7 @@
     "Name": "KaliSindh Super Thermal Power Station",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 576,
-    "ACTUAL GENERATION": 738.14
+    "ACTUAL_GENERATION": 738.14
   },
   {
     "CATEGORY": "THERMAL",
@@ -4378,7 +4378,7 @@
     "Name": "Adani Power Rajasthan Ltd.",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 763,
-    "ACTUAL GENERATION": 616.99
+    "ACTUAL_GENERATION": 616.99
   },
   {
     "CATEGORY": "THERMAL",
@@ -4391,7 +4391,7 @@
     "Name": "Kota Super Thermal Power Station",
     "INST_CAP": 1240,
     "PROGRAM_GENERATION": 720,
-    "ACTUAL GENERATION": 688.3
+    "ACTUAL_GENERATION": 688.3
   },
   {
     "CATEGORY": "HYDRO",
@@ -4404,7 +4404,7 @@
     "Name": "Mahi Bajaj Sagar Dam",
     "INST_CAP": 140,
     "PROGRAM_GENERATION": 23,
-    "ACTUAL GENERATION": 24.99
+    "ACTUAL_GENERATION": 24.99
   },
   {
     "CATEGORY": "HYDRO",
@@ -4417,7 +4417,7 @@
     "Name": "RanaPratap Sagar Dam",
     "INST_CAP": 172,
     "PROGRAM_GENERATION": 60,
-    "ACTUAL GENERATION": 72.5
+    "ACTUAL_GENERATION": 72.5
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -4430,7 +4430,7 @@
     "Name": "Rajasthan Atomic Power Station",
     "INST_CAP": 1080,
     "PROGRAM_GENERATION": 682,
-    "ACTUAL GENERATION": 684.54
+    "ACTUAL_GENERATION": 684.54
   },
   {
     "CATEGORY": "THERMAL",
@@ -4443,7 +4443,7 @@
     "Name": "Ramgarh Gas Thermal Power station",
     "INST_CAP": 273.8,
     "PROGRAM_GENERATION": 144,
-    "ACTUAL GENERATION": 114.14
+    "ACTUAL_GENERATION": 114.14
   },
   {
     "CATEGORY": "THERMAL",
@@ -4456,7 +4456,7 @@
     "Name": "Suratgarh Super Thermal Power Plant",
     "INST_CAP": 1500,
     "PROGRAM_GENERATION": 553,
-    "ACTUAL GENERATION": 167.08
+    "ACTUAL_GENERATION": 167.08
   },
   {
     "CATEGORY": "HYDRO",
@@ -4469,7 +4469,7 @@
     "Name": "Gati Hydro Electric Power House",
     "INST_CAP": 99,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 10.65
+    "ACTUAL_GENERATION": 10.65
   },
   {
     "CATEGORY": "HYDRO",
@@ -4482,7 +4482,7 @@
     "Name": "Jorethang Loop Hydroelectric project",
     "INST_CAP": 96,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 12.46
+    "ACTUAL_GENERATION": 12.46
   },
   {
     "CATEGORY": "HYDRO",
@@ -4495,7 +4495,7 @@
     "Name": "Rangit Dam",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 14,
-    "ACTUAL GENERATION": 14.94
+    "ACTUAL_GENERATION": 14.94
   },
   {
     "CATEGORY": "HYDRO",
@@ -4508,7 +4508,7 @@
     "Name": "Tashiding HEP",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4521,7 +4521,7 @@
     "Name": "Teesta Power Station-V",
     "INST_CAP": 510,
     "PROGRAM_GENERATION": 65,
-    "ACTUAL GENERATION": 83.91
+    "ACTUAL_GENERATION": 83.91
   },
   {
     "CATEGORY": "HYDRO",
@@ -4534,7 +4534,7 @@
     "Name": "Teesta Low Dam Hydro Electric Project Stage III",
     "INST_CAP": 400,
     "PROGRAM_GENERATION": 154,
-    "ACTUAL GENERATION": 9.42
+    "ACTUAL_GENERATION": 9.42
   },
   {
     "CATEGORY": "HYDRO",
@@ -4547,7 +4547,7 @@
     "Name": "ALIYAR POWER HOUSE",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 1.83
+    "ACTUAL_GENERATION": 1.83
   },
   {
     "CATEGORY": "THERMAL",
@@ -4560,7 +4560,7 @@
     "Name": "Vasavi Power Services Private Limited",
     "INST_CAP": 200,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4573,7 +4573,7 @@
     "Name": "Basin Bridge Gas Turbine Power Station",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4586,7 +4586,7 @@
     "Name": "Bhavani Kattalai Barrage I Hydel Power Project",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 2,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4599,7 +4599,7 @@
     "Name": "BHAWANI BARRAGE-II HPS",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4612,7 +4612,7 @@
     "Name": "Bhavanisagar Water Reservoir and Dam",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 0.08
+    "ACTUAL_GENERATION": 0.08
   },
   {
     "CATEGORY": "THERMAL",
@@ -4625,7 +4625,7 @@
     "Name": "Ennore Thermal Power Station",
     "INST_CAP": 450,
     "PROGRAM_GENERATION": 34,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4638,7 +4638,7 @@
     "Name": "ITPCL",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 154,
-    "ACTUAL GENERATION": 680.58
+    "ACTUAL_GENERATION": 680.58
   },
   {
     "CATEGORY": "HYDRO",
@@ -4651,7 +4651,7 @@
     "Name": "Kadamparai Hydro electric power plant",
     "INST_CAP": 400,
     "PROGRAM_GENERATION": 30,
-    "ACTUAL GENERATION": 21.85
+    "ACTUAL_GENERATION": 21.85
   },
   {
     "CATEGORY": "THERMAL",
@@ -4664,7 +4664,7 @@
     "Name": "Aban Power Company Limited",
     "INST_CAP": 119.8,
     "PROGRAM_GENERATION": 46,
-    "ACTUAL GENERATION": 41.66
+    "ACTUAL_GENERATION": 41.66
   },
   {
     "CATEGORY": "HYDRO",
@@ -4677,7 +4677,7 @@
     "Name": "Lower Kodayar Dam Hydro Power Station",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 26,
-    "ACTUAL GENERATION": 11.33
+    "ACTUAL_GENERATION": 11.33
   },
   {
     "CATEGORY": "THERMAL",
@@ -4690,7 +4690,7 @@
     "Name": "TNEB Power Plant",
     "INST_CAP": 107.88,
     "PROGRAM_GENERATION": 33,
-    "ACTUAL GENERATION": 24.68
+    "ACTUAL_GENERATION": 24.68
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -4703,7 +4703,7 @@
     "Name": "Kudankulam Nuclear Power Plant",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 813,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4716,7 +4716,7 @@
     "Name": "Kundah Power House 6",
     "INST_CAP": 555,
     "PROGRAM_GENERATION": 105,
-    "ACTUAL GENERATION": 43.03
+    "ACTUAL_GENERATION": 43.03
   },
   {
     "CATEGORY": "THERMAL",
@@ -4729,7 +4729,7 @@
     "Name": "Kuttalam Gas Turbine Power Station",
     "INST_CAP": 100,
     "PROGRAM_GENERATION": 48,
-    "ACTUAL GENERATION": 36.68
+    "ACTUAL_GENERATION": 36.68
   },
   {
     "CATEGORY": "HYDRO",
@@ -4742,7 +4742,7 @@
     "Name": "LOWER METTUR HPS.",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 33,
-    "ACTUAL GENERATION": 1.03
+    "ACTUAL_GENERATION": 1.03
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -4755,7 +4755,7 @@
     "Name": "Madras Atomic Power Station",
     "INST_CAP": 440,
     "PROGRAM_GENERATION": 273,
-    "ACTUAL GENERATION": 306.79
+    "ACTUAL_GENERATION": 306.79
   },
   {
     "CATEGORY": "HYDRO",
@@ -4768,7 +4768,7 @@
     "Name": "Mettur Dam",
     "INST_CAP": 50,
     "PROGRAM_GENERATION": 7,
-    "ACTUAL GENERATION": 1.28
+    "ACTUAL_GENERATION": 1.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -4781,7 +4781,7 @@
     "Name": "Mettur Thermal Power Plant & Expansion",
     "INST_CAP": 1440,
     "PROGRAM_GENERATION": 869,
-    "ACTUAL GENERATION": 769.46
+    "ACTUAL_GENERATION": 769.46
   },
   {
     "CATEGORY": "HYDRO",
@@ -4794,7 +4794,7 @@
     "Name": "Mettur Hydro Power Plant",
     "INST_CAP": 200,
     "PROGRAM_GENERATION": 36,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4807,7 +4807,7 @@
     "Name": "Moyar Power Plant",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 2.61
+    "ACTUAL_GENERATION": 2.61
   },
   {
     "CATEGORY": "THERMAL",
@@ -4820,7 +4820,7 @@
     "Name": "Mutiara Thermal Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 238,
-    "ACTUAL GENERATION": 212.2
+    "ACTUAL_GENERATION": 212.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -4833,7 +4833,7 @@
     "Name": "Thermal Power Station 1 Nayveli",
     "INST_CAP": 420,
     "PROGRAM_GENERATION": 282,
-    "ACTUAL GENERATION": 290.01
+    "ACTUAL_GENERATION": 290.01
   },
   {
     "CATEGORY": "THERMAL",
@@ -4846,7 +4846,7 @@
     "Name": "Neyveli New Thermal Power Station",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -4859,7 +4859,7 @@
     "Name": "Neyveli Thermal Power Station",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 372,
-    "ACTUAL GENERATION": 340.28
+    "ACTUAL_GENERATION": 340.28
   },
   {
     "CATEGORY": "THERMAL",
@@ -4872,7 +4872,7 @@
     "Name": "Neyveli New Thermal Power Station",
     "INST_CAP": 1470,
     "PROGRAM_GENERATION": 912,
-    "ACTUAL GENERATION": 947.91
+    "ACTUAL_GENERATION": 947.91
   },
   {
     "CATEGORY": "THERMAL",
@@ -4885,7 +4885,7 @@
     "Name": "Thermal Power Station 2 Expansion",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 304,
-    "ACTUAL GENERATION": 164.21
+    "ACTUAL_GENERATION": 164.21
   },
   {
     "CATEGORY": "THERMAL",
@@ -4898,7 +4898,7 @@
     "Name": "Neyveli New Thermal Power Station",
     "INST_CAP": 250,
     "PROGRAM_GENERATION": 158,
-    "ACTUAL GENERATION": 86.26
+    "ACTUAL_GENERATION": 86.26
   },
   {
     "CATEGORY": "THERMAL",
@@ -4911,7 +4911,7 @@
     "Name": "North Chennai Thermal Power Station",
     "INST_CAP": 1830,
     "PROGRAM_GENERATION": 996,
-    "ACTUAL GENERATION": 773.36
+    "ACTUAL_GENERATION": 773.36
   },
   {
     "CATEGORY": "THERMAL",
@@ -4924,7 +4924,7 @@
     "Name": "Vallur Thermal Power Station",
     "INST_CAP": 330.5,
     "PROGRAM_GENERATION": 4,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4937,7 +4937,7 @@
     "Name": "Papanasam Lower Hydroelectric",
     "INST_CAP": 32,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 2.19
+    "ACTUAL_GENERATION": 2.19
   },
   {
     "CATEGORY": "HYDRO",
@@ -4950,7 +4950,7 @@
     "Name": "PARSON`S VALLEY HPS.",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 4,
-    "ACTUAL GENERATION": 1.42
+    "ACTUAL_GENERATION": 1.42
   },
   {
     "CATEGORY": "HYDRO",
@@ -4963,7 +4963,7 @@
     "Name": "Lower Periyar Dam",
     "INST_CAP": 161,
     "PROGRAM_GENERATION": 45,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4976,7 +4976,7 @@
     "Name": "Pykara (Singara) Hydroelectric Power House",
     "INST_CAP": 59.2,
     "PROGRAM_GENERATION": 6,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -4989,7 +4989,7 @@
     "Name": "Pykara Dam & Power House",
     "INST_CAP": 150,
     "PROGRAM_GENERATION": 24,
-    "ACTUAL GENERATION": 9.14
+    "ACTUAL_GENERATION": 9.14
   },
   {
     "CATEGORY": "THERMAL",
@@ -5002,7 +5002,7 @@
     "Name": "Samalpatti Power Company (P) Ltd",
     "INST_CAP": 105.7,
     "PROGRAM_GENERATION": 3,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -5015,7 +5015,7 @@
     "Name": "Samayanallur Thermal Plant",
     "INST_CAP": 106.001,
     "PROGRAM_GENERATION": 2,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -5028,7 +5028,7 @@
     "Name": "Sarkarpathy Power House",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 15,
-    "ACTUAL GENERATION": 3.12
+    "ACTUAL_GENERATION": 3.12
   },
   {
     "CATEGORY": "HYDRO",
@@ -5041,7 +5041,7 @@
     "Name": "Sholayar I Hydroelectric Power House",
     "INST_CAP": 95,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -5054,7 +5054,7 @@
     "Name": "Suruliyar Hydroelectric Power Plant",
     "INST_CAP": 35,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 1.67
+    "ACTUAL_GENERATION": 1.67
   },
   {
     "CATEGORY": "THERMAL",
@@ -5067,7 +5067,7 @@
     "Name": "Tuticorin Thermal Power Station",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 630,
-    "ACTUAL GENERATION": 573.34
+    "ACTUAL_GENERATION": 573.34
   },
   {
     "CATEGORY": "THERMAL",
@@ -5080,7 +5080,7 @@
     "Name": "Tuticorin Thermal Power Station",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 64,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -5093,7 +5093,7 @@
     "Name": "NLC Tamilnadu Thermal Power Plant",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 564,
-    "ACTUAL GENERATION": 505.66
+    "ACTUAL_GENERATION": 505.66
   },
   {
     "CATEGORY": "THERMAL",
@@ -5106,7 +5106,7 @@
     "Name": "Valuthur Gas Combined Cycle Power Station",
     "INST_CAP": 52.8,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 30
+    "ACTUAL_GENERATION": 30
   },
   {
     "CATEGORY": "THERMAL",
@@ -5119,7 +5119,7 @@
     "Name": "NTPC Tamilnadu Energy",
     "INST_CAP": 1500,
     "PROGRAM_GENERATION": 771,
-    "ACTUAL GENERATION": 880.32
+    "ACTUAL_GENERATION": 880.32
   },
   {
     "CATEGORY": "THERMAL",
@@ -5132,7 +5132,7 @@
     "Name": "Valuthur Gas Turbine Power Plant",
     "INST_CAP": 186.2,
     "PROGRAM_GENERATION": 68,
-    "ACTUAL GENERATION": 108.19
+    "ACTUAL_GENERATION": 108.19
   },
   {
     "CATEGORY": "THERMAL",
@@ -5145,7 +5145,7 @@
     "Name": "Kakatiya Thermal Power Station",
     "INST_CAP": 1100,
     "PROGRAM_GENERATION": 614,
-    "ACTUAL GENERATION": 677.2
+    "ACTUAL_GENERATION": 677.2
   },
   {
     "CATEGORY": "THERMAL",
@@ -5158,7 +5158,7 @@
     "Name": "Kothagudem Thermal Power Station",
     "INST_CAP": 720,
     "PROGRAM_GENERATION": 388,
-    "ACTUAL GENERATION": 305.46
+    "ACTUAL_GENERATION": 305.46
   },
   {
     "CATEGORY": "THERMAL",
@@ -5171,7 +5171,7 @@
     "Name": "Kothagudem Thermal Power Station Stage V & VI",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 590,
-    "ACTUAL GENERATION": 572.31
+    "ACTUAL_GENERATION": 572.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -5184,7 +5184,7 @@
     "Name": "Lower Jurala Hydro Electric Project",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 0.11
+    "ACTUAL_GENERATION": 0.11
   },
   {
     "CATEGORY": "HYDRO",
@@ -5197,7 +5197,7 @@
     "Name": "Forebay Dam, Lower Sileru",
     "INST_CAP": 460,
     "PROGRAM_GENERATION": 104,
-    "ACTUAL GENERATION": 103.28
+    "ACTUAL_GENERATION": 103.28
   },
   {
     "CATEGORY": "HYDRO",
@@ -5210,7 +5210,7 @@
     "Name": "Nagarjuna Sagar Dam",
     "INST_CAP": 815.6,
     "PROGRAM_GENERATION": 79,
-    "ACTUAL GENERATION": 33.13
+    "ACTUAL_GENERATION": 33.13
   },
   {
     "CATEGORY": "HYDRO",
@@ -5223,7 +5223,7 @@
     "Name": "Nagarjuna Sagar Dam",
     "INST_CAP": 60,
     "PROGRAM_GENERATION": 5,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -5236,7 +5236,7 @@
     "Name": "Nizam Sagar",
     "INST_CAP": 27,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 14.48
+    "ACTUAL_GENERATION": 14.48
   },
   {
     "CATEGORY": "HYDRO",
@@ -5249,7 +5249,7 @@
     "Name": "Jurala Project",
     "INST_CAP": 234,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -5262,7 +5262,7 @@
     "Name": "Pulichintla hydro power house",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 2,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -5275,7 +5275,7 @@
     "Name": "NTPC Ramagundam Thermal Power Plant",
     "INST_CAP": 62.5,
     "PROGRAM_GENERATION": 27,
-    "ACTUAL GENERATION": 40.84
+    "ACTUAL_GENERATION": 40.84
   },
   {
     "CATEGORY": "THERMAL",
@@ -5288,7 +5288,7 @@
     "Name": "NTPC Ramagundam Thermal Power Plant",
     "INST_CAP": 2600,
     "PROGRAM_GENERATION": 1781,
-    "ACTUAL GENERATION": 1748.03
+    "ACTUAL_GENERATION": 1748.03
   },
   {
     "CATEGORY": "THERMAL",
@@ -5301,7 +5301,7 @@
     "Name": "Singareni Thermal Power Project",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 307,
-    "ACTUAL GENERATION": 726.22
+    "ACTUAL_GENERATION": 726.22
   },
   {
     "CATEGORY": "HYDRO",
@@ -5314,7 +5314,7 @@
     "Name": "Srisailam Reservoir",
     "INST_CAP": 900,
     "PROGRAM_GENERATION": 66,
-    "ACTUAL GENERATION": 66.3
+    "ACTUAL_GENERATION": 66.3
   },
   {
     "CATEGORY": "THERMAL",
@@ -5327,7 +5327,7 @@
     "Name": "NEEPCO AGTCCPP",
     "INST_CAP": 135,
     "PROGRAM_GENERATION": 82,
-    "ACTUAL GENERATION": 82.56
+    "ACTUAL_GENERATION": 82.56
   },
   {
     "CATEGORY": "THERMAL",
@@ -5340,7 +5340,7 @@
     "Name": "Baramura Gas Thermal Power Plant",
     "INST_CAP": 58.5,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 15.91
+    "ACTUAL_GENERATION": 15.91
   },
   {
     "CATEGORY": "THERMAL",
@@ -5353,7 +5353,7 @@
     "Name": "Monarchak Thermal Powerplant",
     "INST_CAP": 101,
     "PROGRAM_GENERATION": 43,
-    "ACTUAL GENERATION": 27.54
+    "ACTUAL_GENERATION": 27.54
   },
   {
     "CATEGORY": "THERMAL",
@@ -5366,7 +5366,7 @@
     "Name": "Rokhia Gas Thermal Power Station",
     "INST_CAP": 111,
     "PROGRAM_GENERATION": 34,
-    "ACTUAL GENERATION": 41.86
+    "ACTUAL_GENERATION": 41.86
   },
   {
     "CATEGORY": "THERMAL",
@@ -5379,7 +5379,7 @@
     "Name": "Tripura Natural Gas Company Limited",
     "INST_CAP": 726.6,
     "PROGRAM_GENERATION": 341,
-    "ACTUAL GENERATION": 296.44
+    "ACTUAL_GENERATION": 296.44
   },
   {
     "CATEGORY": "THERMAL",
@@ -5392,7 +5392,7 @@
     "Name": "Anpara ‘C’ Lanco Thermal Power Station",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 754,
-    "ACTUAL GENERATION": 763.05
+    "ACTUAL_GENERATION": 763.05
   },
   {
     "CATEGORY": "THERMAL",
@@ -5405,7 +5405,7 @@
     "Name": "Anpara D Thermal Power Plant",
     "INST_CAP": 2630,
     "PROGRAM_GENERATION": 1670,
-    "ACTUAL GENERATION": 1451.7
+    "ACTUAL_GENERATION": 1451.7
   },
   {
     "CATEGORY": "THERMAL",
@@ -5418,7 +5418,7 @@
     "Name": "NTPC Auraiya",
     "INST_CAP": 663.36,
     "PROGRAM_GENERATION": 147,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -5431,7 +5431,7 @@
     "Name": "Bajaj Energy Ltd, Barkhera Power Plant",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 30,
-    "ACTUAL GENERATION": 31.92
+    "ACTUAL_GENERATION": 31.92
   },
   {
     "CATEGORY": "THERMAL",
@@ -5444,7 +5444,7 @@
     "Name": "NTPC Dadri",
     "INST_CAP": 1820,
     "PROGRAM_GENERATION": 1033,
-    "ACTUAL GENERATION": 463.52
+    "ACTUAL_GENERATION": 463.52
   },
   {
     "CATEGORY": "THERMAL",
@@ -5457,7 +5457,7 @@
     "Name": "NTPC Dadri",
     "INST_CAP": 829.78,
     "PROGRAM_GENERATION": 84,
-    "ACTUAL GENERATION": 129.43
+    "ACTUAL_GENERATION": 129.43
   },
   {
     "CATEGORY": "THERMAL",
@@ -5470,7 +5470,7 @@
     "Name": "Harduaganj Thermal Power Station",
     "INST_CAP": 665,
     "PROGRAM_GENERATION": 419,
-    "ACTUAL GENERATION": 321.16
+    "ACTUAL_GENERATION": 321.16
   },
   {
     "CATEGORY": "THERMAL",
@@ -5483,7 +5483,7 @@
     "Name": "Bajaj Energy Ltd",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 28,
-    "ACTUAL GENERATION": 17.45
+    "ACTUAL_GENERATION": 17.45
   },
   {
     "CATEGORY": "HYDRO",
@@ -5496,7 +5496,7 @@
     "Name": "KHARA HPS",
     "INST_CAP": 72,
     "PROGRAM_GENERATION": 18,
-    "ACTUAL GENERATION": 14.22
+    "ACTUAL_GENERATION": 14.22
   },
   {
     "CATEGORY": "THERMAL",
@@ -5509,7 +5509,7 @@
     "Name": "Bajaj Energy Ltd Kundarki",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 32,
-    "ACTUAL GENERATION": 25.55
+    "ACTUAL_GENERATION": 25.55
   },
   {
     "CATEGORY": "THERMAL",
@@ -5522,7 +5522,7 @@
     "Name": "Lalitpur Power Generation Company Limited",
     "INST_CAP": 1980,
     "PROGRAM_GENERATION": 512,
-    "ACTUAL GENERATION": 315.96
+    "ACTUAL_GENERATION": 315.96
   },
   {
     "CATEGORY": "THERMAL",
@@ -5535,7 +5535,7 @@
     "Name": "Bajaj Energy Limited Maqsoodpur",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 30,
-    "ACTUAL GENERATION": 25.2
+    "ACTUAL_GENERATION": 25.2
   },
   {
     "CATEGORY": "HYDRO",
@@ -5548,7 +5548,7 @@
     "Name": "Matatila Hydroelectric Dam",
     "INST_CAP": 30.6,
     "PROGRAM_GENERATION": 13,
-    "ACTUAL GENERATION": 15.76
+    "ACTUAL_GENERATION": 15.76
   },
   {
     "CATEGORY": "THERMAL",
@@ -5561,7 +5561,7 @@
     "Name": "Meja Super Thermal Power Project",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "NUCLEAR",
@@ -5574,7 +5574,7 @@
     "Name": "Narora Atomic Power Station",
     "INST_CAP": 440,
     "PROGRAM_GENERATION": 278,
-    "ACTUAL GENERATION": 339.73
+    "ACTUAL_GENERATION": 339.73
   },
   {
     "CATEGORY": "HYDRO",
@@ -5587,7 +5587,7 @@
     "Name": "Obra Hydroelectric Power Plant",
     "INST_CAP": 99,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 19.97
+    "ACTUAL_GENERATION": 19.97
   },
   {
     "CATEGORY": "THERMAL",
@@ -5600,7 +5600,7 @@
     "Name": "Obra Thermal Power Plant",
     "INST_CAP": 1278,
     "PROGRAM_GENERATION": 472,
-    "ACTUAL GENERATION": 425.43
+    "ACTUAL_GENERATION": 425.43
   },
   {
     "CATEGORY": "THERMAL",
@@ -5613,7 +5613,7 @@
     "Name": "Panki Thermal Power Station",
     "INST_CAP": 210,
     "PROGRAM_GENERATION": 90,
-    "ACTUAL GENERATION": 63.49
+    "ACTUAL_GENERATION": 63.49
   },
   {
     "CATEGORY": "THERMAL",
@@ -5626,7 +5626,7 @@
     "Name": "Parichha Thermal Power Station",
     "INST_CAP": 1140,
     "PROGRAM_GENERATION": 606,
-    "ACTUAL GENERATION": 442.8
+    "ACTUAL_GENERATION": 442.8
   },
   {
     "CATEGORY": "THERMAL",
@@ -5639,7 +5639,7 @@
     "Name": "Prayagraj Power Generation Co. Ltd",
     "INST_CAP": 1320,
     "PROGRAM_GENERATION": 320,
-    "ACTUAL GENERATION": 679.62
+    "ACTUAL_GENERATION": 679.62
   },
   {
     "CATEGORY": "HYDRO",
@@ -5652,7 +5652,7 @@
     "Name": "Rihand Dam, Pipari",
     "INST_CAP": 300,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 52.09
+    "ACTUAL_GENERATION": 52.09
   },
   {
     "CATEGORY": "THERMAL",
@@ -5665,7 +5665,7 @@
     "Name": "Rihand Power Station",
     "INST_CAP": 3000,
     "PROGRAM_GENERATION": 1878,
-    "ACTUAL GENERATION": 1883.12
+    "ACTUAL_GENERATION": 1883.12
   },
   {
     "CATEGORY": "THERMAL",
@@ -5678,7 +5678,7 @@
     "Name": "Rosa Thermal Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 539,
-    "ACTUAL GENERATION": 660.6
+    "ACTUAL_GENERATION": 660.6
   },
   {
     "CATEGORY": "THERMAL",
@@ -5691,7 +5691,7 @@
     "Name": "Shaktinagar Singrauli N.T.P.C. THermal Power Plant",
     "INST_CAP": 2000,
     "PROGRAM_GENERATION": 1375,
-    "ACTUAL GENERATION": 1423.41
+    "ACTUAL_GENERATION": 1423.41
   },
   {
     "CATEGORY": "THERMAL",
@@ -5704,7 +5704,7 @@
     "Name": "NTPC Tanda",
     "INST_CAP": 440,
     "PROGRAM_GENERATION": 276,
-    "ACTUAL GENERATION": 276.68
+    "ACTUAL_GENERATION": 276.68
   },
   {
     "CATEGORY": "THERMAL",
@@ -5717,7 +5717,7 @@
     "Name": "NTPC, Unchahar, Uttar Pradesh",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 621,
-    "ACTUAL GENERATION": 611.85
+    "ACTUAL_GENERATION": 611.85
   },
   {
     "CATEGORY": "THERMAL",
@@ -5730,7 +5730,7 @@
     "Name": "Bajaj Energy Ltd. UTRAULA",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 32,
-    "ACTUAL GENERATION": 29.85
+    "ACTUAL_GENERATION": 29.85
   },
   {
     "CATEGORY": "THERMAL",
@@ -5743,7 +5743,7 @@
     "Name": "Gama Infraprop Pvt. Ltd.",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -5756,7 +5756,7 @@
     "Name": "Icchadi Dam",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 32,
-    "ACTUAL GENERATION": 27.81
+    "ACTUAL_GENERATION": 27.81
   },
   {
     "CATEGORY": "HYDRO",
@@ -5769,7 +5769,7 @@
     "Name": "Chilla Hydro Power Plant",
     "INST_CAP": 144,
     "PROGRAM_GENERATION": 54,
-    "ACTUAL GENERATION": 58.29
+    "ACTUAL_GENERATION": 58.29
   },
   {
     "CATEGORY": "HYDRO",
@@ -5782,7 +5782,7 @@
     "Name": "Power House Dhakrani",
     "INST_CAP": 33.75,
     "PROGRAM_GENERATION": 7,
-    "ACTUAL GENERATION": 5.31
+    "ACTUAL_GENERATION": 5.31
   },
   {
     "CATEGORY": "HYDRO",
@@ -5795,7 +5795,7 @@
     "Name": "Power House Dhalipur",
     "INST_CAP": 51,
     "PROGRAM_GENERATION": 10,
-    "ACTUAL GENERATION": 8.1
+    "ACTUAL_GENERATION": 8.1
   },
   {
     "CATEGORY": "HYDRO",
@@ -5808,7 +5808,7 @@
     "Name": "Dhauliganga Power Station,NHPC Ltd",
     "INST_CAP": 280,
     "PROGRAM_GENERATION": 31,
-    "ACTUAL GENERATION": 25.96
+    "ACTUAL_GENERATION": 25.96
   },
   {
     "CATEGORY": "THERMAL",
@@ -5821,7 +5821,7 @@
     "Name": "Gama Infraprop Pvt. Ltd.",
     "INST_CAP": 225,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 69.37
+    "ACTUAL_GENERATION": 69.37
   },
   {
     "CATEGORY": "THERMAL",
@@ -5834,7 +5834,7 @@
     "Name": "Sravanthi Energy Pvt. Ltd., Dariyal Rd, Khaikhera Madhiyan, Khaikhera, Uttarakhand",
     "INST_CAP": 225,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 88.44
+    "ACTUAL_GENERATION": 88.44
   },
   {
     "CATEGORY": "HYDRO",
@@ -5847,7 +5847,7 @@
     "Name": "Lohia Head Power Plant",
     "INST_CAP": 41.4,
     "PROGRAM_GENERATION": 12,
-    "ACTUAL GENERATION": 14.32
+    "ACTUAL_GENERATION": 14.32
   },
   {
     "CATEGORY": "HYDRO",
@@ -5860,7 +5860,7 @@
     "Name": "Ichari Dam",
     "INST_CAP": 120,
     "PROGRAM_GENERATION": 16,
-    "ACTUAL GENERATION": 13.84
+    "ACTUAL_GENERATION": 13.84
   },
   {
     "CATEGORY": "HYDRO",
@@ -5873,7 +5873,7 @@
     "Name": "Koteshwar Dam",
     "INST_CAP": 400,
     "PROGRAM_GENERATION": 109,
-    "ACTUAL GENERATION": 96.65
+    "ACTUAL_GENERATION": 96.65
   },
   {
     "CATEGORY": "HYDRO",
@@ -5886,7 +5886,7 @@
     "Name": "Kulhaal Hydro Power House",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 8,
-    "ACTUAL GENERATION": 6.75
+    "ACTUAL_GENERATION": 6.75
   },
   {
     "CATEGORY": "HYDRO",
@@ -5899,7 +5899,7 @@
     "Name": "Maneri Bhali Dam",
     "INST_CAP": 90,
     "PROGRAM_GENERATION": 25,
-    "ACTUAL GENERATION": 20.16
+    "ACTUAL_GENERATION": 20.16
   },
   {
     "CATEGORY": "HYDRO",
@@ -5912,7 +5912,7 @@
     "Name": "Maneri Bhali Dam",
     "INST_CAP": 304,
     "PROGRAM_GENERATION": 44,
-    "ACTUAL GENERATION": 31.59
+    "ACTUAL_GENERATION": 31.59
   },
   {
     "CATEGORY": "HYDRO",
@@ -5925,7 +5925,7 @@
     "Name": "Ram Ganga Dam Project",
     "INST_CAP": 198,
     "PROGRAM_GENERATION": 45,
-    "ACTUAL GENERATION": 63.85
+    "ACTUAL_GENERATION": 63.85
   },
   {
     "CATEGORY": "HYDRO",
@@ -5938,7 +5938,7 @@
     "Name": "Alaknanda Hydro Electric Power Project",
     "INST_CAP": 330,
     "PROGRAM_GENERATION": 43,
-    "ACTUAL GENERATION": 33.36
+    "ACTUAL_GENERATION": 33.36
   },
   {
     "CATEGORY": "HYDRO",
@@ -5951,7 +5951,7 @@
     "Name": "Tanakpur",
     "INST_CAP": 94.2,
     "PROGRAM_GENERATION": 21,
-    "ACTUAL GENERATION": 18.77
+    "ACTUAL_GENERATION": 18.77
   },
   {
     "CATEGORY": "HYDRO",
@@ -5964,7 +5964,7 @@
     "Name": "Tehri Dam",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 304,
-    "ACTUAL GENERATION": 265.36
+    "ACTUAL_GENERATION": 265.36
   },
   {
     "CATEGORY": "HYDRO",
@@ -5977,7 +5977,7 @@
     "Name": "Vishnu Prayag Hydel Power Plant",
     "INST_CAP": 400,
     "PROGRAM_GENERATION": 53,
-    "ACTUAL GENERATION": 55.87
+    "ACTUAL_GENERATION": 55.87
   },
   {
     "CATEGORY": "THERMAL",
@@ -5990,7 +5990,7 @@
     "Name": "Bakreshwar Ther­mal Power Station",
     "INST_CAP": 1050,
     "PROGRAM_GENERATION": 573,
-    "ACTUAL GENERATION": 474.47
+    "ACTUAL_GENERATION": 474.47
   },
   {
     "CATEGORY": "THERMAL",
@@ -6003,7 +6003,7 @@
     "Name": "Bandel Thermal Power Station",
     "INST_CAP": 450,
     "PROGRAM_GENERATION": 112,
-    "ACTUAL GENERATION": 129.41
+    "ACTUAL_GENERATION": 129.41
   },
   {
     "CATEGORY": "THERMAL",
@@ -6016,7 +6016,7 @@
     "Name": "Calcutta Electric Supply Corporation Thermal Power Station",
     "INST_CAP": 750,
     "PROGRAM_GENERATION": 354,
-    "ACTUAL GENERATION": 353.59
+    "ACTUAL_GENERATION": 353.59
   },
   {
     "CATEGORY": "THERMAL",
@@ -6029,7 +6029,7 @@
     "Name": "Chinakuri Thermal Power station",
     "INST_CAP": 30,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -6042,7 +6042,7 @@
     "Name": "D P L , POWER PLANT",
     "INST_CAP": 880,
     "PROGRAM_GENERATION": 130,
-    "ACTUAL GENERATION": 183.18
+    "ACTUAL_GENERATION": 183.18
   },
   {
     "CATEGORY": "THERMAL",
@@ -6055,7 +6055,7 @@
     "Name": "Durgapur Steel Thermal Power Station",
     "INST_CAP": 1000,
     "PROGRAM_GENERATION": 498,
-    "ACTUAL GENERATION": 653.05
+    "ACTUAL_GENERATION": 653.05
   },
   {
     "CATEGORY": "THERMAL",
@@ -6068,7 +6068,7 @@
     "Name": "Durgapur Thermal Power Station",
     "INST_CAP": 210,
     "PROGRAM_GENERATION": 99,
-    "ACTUAL GENERATION": 134.11
+    "ACTUAL_GENERATION": 134.11
   },
   {
     "CATEGORY": "THERMAL",
@@ -6081,7 +6081,7 @@
     "Name": "NTPC Limited, Farakka Super Thermal Power Station",
     "INST_CAP": 2100,
     "PROGRAM_GENERATION": 1200,
-    "ACTUAL GENERATION": 1261.37
+    "ACTUAL_GENERATION": 1261.37
   },
   {
     "CATEGORY": "THERMAL",
@@ -6094,7 +6094,7 @@
     "Name": "Haldia Energy Limited",
     "INST_CAP": 40,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -6107,7 +6107,7 @@
     "Name": "CESC Haldia Thermal Power Plant",
     "INST_CAP": 600,
     "PROGRAM_GENERATION": 314,
-    "ACTUAL GENERATION": 231.67
+    "ACTUAL_GENERATION": 231.67
   },
   {
     "CATEGORY": "THERMAL",
@@ -6120,7 +6120,7 @@
     "Name": "India Power Corporation Limited,Haldia",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -6133,7 +6133,7 @@
     "Name": "Jaldhaka Hydel Power Project",
     "INST_CAP": 36,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0.16
+    "ACTUAL_GENERATION": 0.16
   },
   {
     "CATEGORY": "THERMAL",
@@ -6146,7 +6146,7 @@
     "Name": "Kolaghat Thermal Power Station",
     "INST_CAP": 40,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "THERMAL",
@@ -6159,7 +6159,7 @@
     "Name": "Kolaghat Thermal Power Station",
     "INST_CAP": 1260,
     "PROGRAM_GENERATION": 480,
-    "ACTUAL GENERATION": 439.06
+    "ACTUAL_GENERATION": 439.06
   },
   {
     "CATEGORY": "THERMAL",
@@ -6172,7 +6172,7 @@
     "Name": "Mejia Thermal Power Station",
     "INST_CAP": 2340,
     "PROGRAM_GENERATION": 1009,
-    "ACTUAL GENERATION": 1179.31
+    "ACTUAL_GENERATION": 1179.31
   },
   {
     "CATEGORY": "THERMAL",
@@ -6185,7 +6185,7 @@
     "Name": "CESC Limited",
     "INST_CAP": 0,
     "PROGRAM_GENERATION": 0,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   },
   {
     "CATEGORY": "HYDRO",
@@ -6198,7 +6198,7 @@
     "Name": "Ajodhya Hydro Electric Power Project",
     "INST_CAP": 900,
     "PROGRAM_GENERATION": 92,
-    "ACTUAL GENERATION": 83.16
+    "ACTUAL_GENERATION": 83.16
   },
   {
     "CATEGORY": "THERMAL",
@@ -6211,7 +6211,7 @@
     "Name": "Raghunathpur Thermal Power Plant",
     "INST_CAP": 1200,
     "PROGRAM_GENERATION": 94,
-    "ACTUAL GENERATION": 145.85
+    "ACTUAL_GENERATION": 145.85
   },
   {
     "CATEGORY": "HYDRO",
@@ -6224,7 +6224,7 @@
     "Name": "Rammam Hydel Project,St-II 51 MW",
     "INST_CAP": 50,
     "PROGRAM_GENERATION": 9,
-    "ACTUAL GENERATION": 10.73
+    "ACTUAL_GENERATION": 10.73
   },
   {
     "CATEGORY": "THERMAL",
@@ -6237,7 +6237,7 @@
     "Name": "Sagardighi Thermal Power Station",
     "INST_CAP": 1600,
     "PROGRAM_GENERATION": 307,
-    "ACTUAL GENERATION": 554.98
+    "ACTUAL_GENERATION": 554.98
   },
   {
     "CATEGORY": "THERMAL",
@@ -6250,7 +6250,7 @@
     "Name": "Santaldih Thermal Power Station(STPS)",
     "INST_CAP": 500,
     "PROGRAM_GENERATION": 316,
-    "ACTUAL GENERATION": 344.35
+    "ACTUAL_GENERATION": 344.35
   },
   {
     "CATEGORY": "THERMAL",
@@ -6263,7 +6263,7 @@
     "Name": "SOUTHERN REPL. TPS",
     "INST_CAP": 135,
     "PROGRAM_GENERATION": 50,
-    "ACTUAL GENERATION": 5.66
+    "ACTUAL_GENERATION": 5.66
   },
   {
     "CATEGORY": "HYDRO",
@@ -6276,7 +6276,7 @@
     "Name": "Teesta Low Dam Hydro Electric Project Stage III",
     "INST_CAP": 132,
     "PROGRAM_GENERATION": 22,
-    "ACTUAL GENERATION": 10.67
+    "ACTUAL_GENERATION": 10.67
   },
   {
     "CATEGORY": "HYDRO",
@@ -6289,7 +6289,7 @@
     "Name": "Teesta Low Dam–IV",
     "INST_CAP": 160,
     "PROGRAM_GENERATION": 15,
-    "ACTUAL GENERATION": 18.63
+    "ACTUAL_GENERATION": 18.63
   },
   {
     "CATEGORY": "THERMAL",
@@ -6302,6 +6302,6 @@
     "Name": "Titagarh Generating Station,CESC",
     "INST_CAP": 240,
     "PROGRAM_GENERATION": 35,
-    "ACTUAL GENERATION": 0
+    "ACTUAL_GENERATION": 0
   }
 ]
