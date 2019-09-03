@@ -1,6 +1,4 @@
-This is a minimal standalone version of the DataFilterExtension example
-on [deck.gl](http://deck.gl) website.
-
+###Aditya | Data Vis | Amit 
 ### Usage
 
 Copy the content of this folder to your project. 
@@ -24,6 +22,3 @@ yarn
 npm start
 ```
 
-### Data format
-Sample data is stored in [kepler.gl Example Data](https://raw.githubusercontent.com/uber-web/kepler.gl-data/master/earthquakes/). To use your own data, checkout
-the [documentation of DataFilterExtension](../../../docs/extensions/data-filter-extension.md).

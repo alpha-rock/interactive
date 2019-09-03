@@ -1,0 +1,75 @@
+{
+    "san-francisco": {
+      "viewState": {
+        "longitude": -122.4192016,
+        "latitude": 37.7751543,
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      },
+      "sourceIndex": 311
+    },
+    "new-york": {
+      "sourceIndex": 58689,
+      "viewState": {
+        "longitude": -73.9963128,
+        "latitude": 40.7512821,
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    "seattle": {
+      "sourceIndex": 164774,
+      "viewState": {
+       "latitude": 47.6098543,
+        "longitude": -122.3350119,
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    "nairobi": {
+      "sourceIndex": 66128,
+      "viewState": {
+        "longitude": 36.8382651,
+        "latitude": -1.2575046,
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    "jammu": {
+        "sourceIndex": 661283,
+        "viewState": {
+          "longitude": 76.739,
+          "latitude": -32.5417,
+          "zoom": 13,
+          "pitch": 0,
+          "bearing": 0
+        }
+      },
+      "india": {
+        "sourceIndex": 661286,
+        "viewState": {
+          "longitude": 76.739,
+          "latitude": 18.7,
+          "zoom": 13,
+          "pitch": 0,
+          "bearing": 0
+        }
+      },
+      "mumbai": {
+        "sourceIndex": 661287,
+        "viewState": {
+          "longitude": 72.945,
+          "latitude": 19.437,
+          "zoom": 13,
+          "pitch": 0,
+          "bearing": 0
+        }
+      }
+
+
+
+  }
