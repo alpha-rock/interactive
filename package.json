@@ -1,8 +1,11 @@
 {
+  "homepage": "https://alpha-rock.github.io/interactive/",
   "name": "geojson",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"  ,
     "start-local": "webpack-dev-server --env.local --progress --hot --open",
     "start": "webpack-dev-server --progress --hot --open"
   },
@@ -24,4 +27,5 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.1"
   }
+ 
 }
